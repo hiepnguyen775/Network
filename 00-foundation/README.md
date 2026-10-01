@@ -29,12 +29,12 @@ Xong phase này, bạn phải:
 | # | Lesson | File | 🧪 Lab | Trạng thái |
 |:---:|---|---|:---:|:---:|
 | 01 | Network là gì · LAN/WAN · mô hình OSI & TCP/IP ⭐ | [`lesson-01-osi-va-tcp-ip.md`](./lesson-01-osi-va-tcp-ip.md) | | ⬜ |
-| 02 | IPv4, subnet mask, CIDR, **subnetting** ⭐ | [`lesson-02-ipv4-va-subnetting.md`](./lesson-02-ipv4-va-subnetting.md) | ✅ | ⬜ |
+| 02 | IPv4, subnet mask, CIDR, **subnetting cơ bản** ⭐ | [`lesson-02-ipv4-va-subnetting.md`](./lesson-02-ipv4-va-subnetting.md) | ✅ | ⬜ |
 | 03 | Ethernet · MAC address · Frame · switch học MAC | — | | ⬜ |
 | 04 | Encapsulation / Decapsulation chi tiết | — | | ⬜ |
 | 05 | Default Gateway · ARP · ICMP | — | ✅ | ⬜ |
 | 06 | TCP vs UDP · Port · 3-way handshake ⭐ | — | ✅ | ⬜ |
-| 07 | VLSM · chia địa chỉ cho một công ty thật | — | ✅ | ⬜ |
+| 07 | **VLSM nâng cao** · thiết kế IP plan có dự phòng tăng trưởng | — | ✅ | ⬜ |
 | 08 | DNS · DHCP (DORA) | — | ✅ | ⬜ |
 | 09 | NAT — khái niệm · private vs public IP | — | | ⬜ |
 | 10 | Unicast / Broadcast / Multicast · IPv6 giới thiệu | — | | ⬜ |
@@ -59,11 +59,12 @@ Xong phase này, bạn phải:
 
 ## 🧪 Lab của phase
 
-| Lab | Nội dung | File |
-|---|---|---|
-| LAB 01 | Chia VLSM cho công ty 4 phòng ban + verify kết nối | [`labs/lab01-...`](../labs/) |
-| LAB 02 | Bắt ARP + ICMP bằng Wireshark, đọc từng field | [`labs/lab02-...`](../labs/) |
-| LAB 03 | Bắt TCP 3-way handshake + so sánh với UDP | [`labs/lab03-...`](../labs/) |
+| Lab | Lesson | Nội dung | File |
+|---|:---:|---|---|
+| LAB 01 | 02 | Chia VLSM cho công ty 4 phòng ban + verify kết nối | [`lab01-vlsm-cong-ty-4-phong-ban.md`](../labs/lab01-vlsm-cong-ty-4-phong-ban.md) |
+| LAB 02 | 05 | Bắt ARP + ICMP bằng Wireshark, đọc từng field | *(chưa tạo)* |
+| LAB 03 | 06 | Bắt TCP 3-way handshake + so sánh với UDP | *(chưa tạo)* |
+| LAB 04 | 07 | Thiết kế IP plan cho công ty 6 phòng ban + 3 WAN link từ một `/23` | *(chưa tạo)* |
 
 ---
 

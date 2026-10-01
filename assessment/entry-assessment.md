@@ -27,7 +27,7 @@
 
 ---
 
-## CỤM 2 — IPv4 & Subnetting *(6 câu)*
+## CỤM 2 — IPv4 & Subnetting *(5 câu)*
 
 6. `192.168.10.100/26` → Network, Broadcast, First host, Last host, số host usable?
 7. `/28` có subnet mask là gì? Block size bao nhiêu? Bao nhiêu host dùng được?
@@ -35,43 +35,43 @@
 9. Một máy nhận IP `169.254.12.33`. Điều này cho bạn biết gì? Bạn kiểm tra gì đầu tiên?
 10. Công ty cần chia cho 4 phòng: 50, 25, 12, 2 host từ dải `10.0.0.0/24`.
     Chia VLSM thế nào? *(ghi prefix và dải của từng phòng)*
-11. Wildcard mask của `/26` là gì? Nó dùng ở đâu, khác subnet mask chỗ nào?
 
 ---
 
 ## CỤM 3 — Switching & VLAN *(5 câu)*
 
-12. VLAN sinh ra để **giải quyết vấn đề gì**? Nếu không có VLAN thì sao?
-13. Access port và trunk port khác nhau thế nào? 802.1Q làm gì với frame?
-14. Native VLAN là gì? Hai đầu trunk đặt native VLAN khác nhau thì chuyện gì xảy ra?
-15. Hai PC ở hai VLAN khác nhau muốn nói chuyện cần gì? Kể **hai** cách triển khai và khác biệt.
-16. STP sinh ra để giải quyết vấn đề gì? Vì sao loop ở L2 nguy hiểm hơn loop ở L3?
+11. VLAN sinh ra để **giải quyết vấn đề gì**? Nếu không có VLAN thì sao?
+12. Access port và trunk port khác nhau thế nào? 802.1Q làm gì với frame?
+13. Native VLAN là gì? Hai đầu trunk đặt native VLAN khác nhau thì chuyện gì xảy ra?
+14. Hai PC ở hai VLAN khác nhau muốn nói chuyện cần gì? Kể **hai** cách triển khai và khác biệt.
+15. STP sinh ra để giải quyết vấn đề gì? Vì sao loop ở L2 nguy hiểm hơn loop ở L3?
 
 ---
 
-## CỤM 4 — Routing *(6 câu)*
+## CỤM 4 — Routing *(5 câu)*
 
-17. Router quyết định chọn route nào theo **thứ tự** nào? *(3 tiêu chí)*
-18. Administrative Distance là gì? AD của Connected / Static / OSPF / RIP?
-19. Trong `show ip route`, dòng `O 10.2.2.0/24 [110/2] via 10.1.1.2` — giải thích **từng phần**.
-20. Default route viết thế nào? Vì sao nó luôn thua các route cụ thể hơn?
-21. Floating static route là gì? Dùng trong tình huống thực tế nào?
-22. OSPF neighbor phải khớp **những gì** mới lên được? Kể càng nhiều càng tốt.
+16. Router quyết định chọn route nào theo **thứ tự** nào? *(3 tiêu chí)*
+17. Administrative Distance là gì? AD của Connected / Static / OSPF / RIP?
+18. Default route viết thế nào? Vì sao nó luôn thua các route cụ thể hơn?
+19. Floating static route là gì? Dùng trong tình huống thực tế nào?
+20. OSPF neighbor phải khớp **những gì** mới lên được? Kể càng nhiều càng tốt.
 
 ---
 
 ## CỤM 5 — Services & Transport *(5 câu)*
 
-23. TCP khác UDP ở những điểm cốt lõi nào? Mỗi loại dùng cho dịch vụ gì?
-24. TCP 3-way handshake gồm mấy bước, tên từng bước?
-25. DHCP có 4 bước, tên là gì? DHCP Discover là unicast hay broadcast — và hệ quả?
-26. PC ở VLAN 20 không nhận được IP từ DHCP server ở VLAN 10. Vì sao? Sửa thế nào?
-27. NAT/PAT giải quyết vấn đề gì? PAT phân biệt các kết nối bằng gì?
+21. TCP khác UDP ở những điểm cốt lõi nào? Mỗi loại dùng cho dịch vụ gì?
+22. TCP 3-way handshake gồm mấy bước, tên từng bước?
+23. DHCP có 4 bước, tên là gì? DHCP Discover là unicast hay broadcast — và hệ quả?
+24. PC ở VLAN 20 không nhận được IP từ DHCP server ở VLAN 10. Vì sao? Sửa thế nào?
+25. NAT/PAT giải quyết vấn đề gì? PAT phân biệt các kết nối bằng gì?
 
 ---
 
-## CỤM 6 — CLI & Troubleshooting *(3 câu)*
+## CỤM 6 — Đọc output & Troubleshooting *(5 câu)*
 
+26. Wildcard mask của `/26` là gì? Nó dùng ở đâu, khác subnet mask chỗ nào?
+27. Trong `show ip route`, dòng `O 10.2.2.0/24 [110/2] via 10.1.1.2` — giải thích **từng phần**.
 28. Kể 5 lệnh `show` bạn gõ **đầu tiên** khi một mạng Cisco có vấn đề, và mỗi lệnh trả lời câu hỏi gì.
 29. `show ip interface brief` hiện `up / down` — nghĩa là gì? Bạn nghi ngờ gì?
 30. PC1 ping được gateway nhưng không ping được server ở subnet khác.
@@ -84,11 +84,11 @@
 | Cụm | Chủ đề | Điểm | Phân loại gap |
 |:---:|---|:---:|---|
 | 1 | Nền tảng & OSI | /5 | |
-| 2 | IPv4 & Subnetting | /6 | |
+| 2 | IPv4 & Subnetting | /5 | |
 | 3 | Switching & VLAN | /5 | |
-| 4 | Routing | /6 | |
+| 4 | Routing | /5 | |
 | 5 | Services & Transport | /5 | |
-| 6 | CLI & Troubleshooting | /3 | |
+| 6 | Đọc output & Troubleshooting | /5 | |
 | | **Tổng** | **/30** | |
 
 **Phân loại gap:**
@@ -110,7 +110,7 @@
 | **19–25** | Khá vững | Lướt Phase 0, dồn sức Phase 1–2 và 6–7 |
 | **26–30** | Sẵn sàng | Ôn nhanh Phase 0–7 rồi làm Final Project, tính chuyện thi sớm |
 
-> ⚠️ Điểm cao mà **sai câu 17, 22, hoặc 30** vẫn phải học kỹ Phase 2 —
+> ⚠️ Điểm cao mà **sai câu 16, 20, hoặc 30** vẫn phải học kỹ Phase 2 —
 > ba câu đó đo đúng thứ phân biệt người hiểu network và người thuộc lệnh.
 
 ---

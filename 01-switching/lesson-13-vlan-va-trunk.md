@@ -152,6 +152,7 @@ SW2 nhận frame KHÔNG tag  → gán vào VLAN 99 (native của nó)
 và log cảnh báo:
 
 ```text
+# output điển hình — tự verify trên lab của bạn
 %CDP-4-NATIVE_VLAN_MISMATCH: Native VLAN mismatch discovered on GigabitEthernet0/1 (1), with SW2 GigabitEthernet0/1 (99).
 ```
 

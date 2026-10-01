@@ -71,6 +71,12 @@
 | `check` | Làm Knowledge Check L1 → L5 cho topic vừa học |
 | `sâu hơn` | Đào xuống tầng 🔧 Engineer / 🏭 Production |
 | `tóm tắt` | Chốt topic hiện tại thành Summary + Commands + Common Mistakes |
+| `packet` | Mô tả lại packet flow của topic hiện tại, từng hop, từng header |
+| `sai rồi` | Phản bác AI — buộc nó kiểm tra lại và dẫn nguồn, không vội nhận sai |
+| `flashcard` | Sinh bộ thẻ ghi nhớ cho phase vừa xong |
+| `mini exam` | Sinh bài kiểm tra cuối phase (15–20 câu) |
+
+> Bảng đầy đủ nằm trong [`MENTOR_PROMPT.md`](./MENTOR_PROMPT.md#6-nhịp--độ-dài-chống-loãng--đọc-kỹ) — hai bảng luôn phải khớp nhau.
 
 ---
 
@@ -256,8 +262,9 @@ Con số thật chỉ đến từ thiết bị thật.
 
 <br>
 
-Với nền IT/hệ thống sẵn có và **8–10 giờ/tuần**: Phase 0–7 khoảng **16–20 tuần**, cộng 2–3 tuần ôn
-và làm Final Project. Ai hứa 6 tuần là đang bán khoá học.
+Với nền IT/hệ thống sẵn có và **8–10 giờ/tuần**: Phase 0–7 khoảng **17 tuần**, cộng **1–2 tuần**
+cho Final CCNA Project → **tổng ~18–20 tuần**. Chi tiết từng phase ở [`ROADMAP.md`](./ROADMAP.md#-tổng-quan-thời-lượng).
+Ai hứa 6 tuần là đang bán khoá học.
 
 </details>
 

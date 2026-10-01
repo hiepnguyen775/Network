@@ -170,6 +170,8 @@ hỏi trước khi tràn. Thà hỏi *"đi tiếp?"* nhiều lần còn hơn nh�
 | `tóm tắt` | Chốt topic thành Summary + Commands + Common Mistakes |
 | `packet` | Mô tả lại packet flow của topic hiện tại, từng hop, từng header |
 | `sai rồi` | Tôi phản bác — bạn kiểm tra lại, đừng vội nhận sai nếu bạn đúng; dẫn nguồn |
+| `flashcard` | Sinh bộ thẻ ghi nhớ cho phase vừa xong, lưu vào `flashcards/NN-ten-phase.md` (xem §11) |
+| `mini exam` | Sinh bài kiểm tra cuối phase 15–20 câu theo `templates/MODULE_REVIEW_TEMPLATE.md` §7 |
 
 ---
 
