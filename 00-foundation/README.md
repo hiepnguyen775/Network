@@ -29,18 +29,20 @@ Xong phase này, bạn phải:
 | # | Lesson | File | 🧪 Lab | Trạng thái |
 |:---:|---|---|:---:|:---:|
 | 01 | Network là gì · LAN/WAN · mô hình OSI & TCP/IP ⭐ | [`lesson-01-osi-va-tcp-ip.md`](./lesson-01-osi-va-tcp-ip.md) | | ⬜ |
-| 02 | IPv4, subnet mask, CIDR, **subnetting cơ bản** ⭐ | [`lesson-02-ipv4-va-subnetting.md`](./lesson-02-ipv4-va-subnetting.md) | ✅ | ⬜ |
-| 03 | Ethernet · MAC address · Frame · switch học MAC | — | | ⬜ |
-| 04 | Unicast · Broadcast · Multicast · broadcast domain | — | | ⬜ |
-| 05 | Default Gateway · ARP · ICMP | — | ✅ | ⬜ |
-| 06 | TCP vs UDP · Port · 3-way handshake ⭐ | — | ✅ | ⬜ |
-| 07 | **VLSM nâng cao** · thiết kế IP plan có dự phòng tăng trưởng | — | ✅ | ⬜ |
-| 08 | DNS · DHCP (DORA) | — | ✅ | ⬜ |
-| 09 | NAT — khái niệm · private vs public IP | — | | ⬜ |
-| 10 | IPv6 — giới thiệu: vì sao cần, khác IPv4 ở đâu | — | | ⬜ |
+| 02 | IPv4, subnet mask, CIDR, **subnetting cơ bản** ⭐ | [`lesson-02-ipv4-va-subnetting.md`](./lesson-02-ipv4-va-subnetting.md) | LAB 01 | ⬜ |
+| 03 | Ethernet · MAC address · Frame · switch học MAC | [`lesson-03-ethernet-mac-frame.md`](./lesson-03-ethernet-mac-frame.md) | | ⬜ |
+| 04 | Unicast · Broadcast · Multicast · broadcast domain | [`lesson-04-unicast-broadcast-multicast.md`](./lesson-04-unicast-broadcast-multicast.md) | | ⬜ |
+| 05 | Default Gateway · ARP · ICMP ⭐ | [`lesson-05-gateway-arp-icmp.md`](./lesson-05-gateway-arp-icmp.md) | LAB 02 | ⬜ |
+| 06 | TCP vs UDP · Port · 3-way handshake ⭐ | [`lesson-06-tcp-udp-port.md`](./lesson-06-tcp-udp-port.md) | LAB 03 | ⬜ |
+| 07 | **VLSM nâng cao** · thiết kế IP plan | [`lesson-07-vlsm-va-ip-plan.md`](./lesson-07-vlsm-va-ip-plan.md) | LAB 04 | ⬜ |
+| 08 | DNS · DHCP (DORA) | [`lesson-08-dns-va-dhcp.md`](./lesson-08-dns-va-dhcp.md) | LAB 05 | ⬜ |
+| 09 | NAT · private vs public IP | [`lesson-09-nat-private-public.md`](./lesson-09-nat-private-public.md) | LAB 06 | ⬜ |
+| 10 | IPv6 — giới thiệu: vì sao cần, khác IPv4 ở đâu | [`lesson-10-ipv6-gioi-thieu.md`](./lesson-10-ipv6-gioi-thieu.md) | | ⬜ |
 
-> Lesson chưa có file = chưa học tới. AI sẽ sinh nội dung khi bạn tới lesson đó,
-> bạn copy [`templates/LESSON_TEMPLATE.md`](../templates/LESSON_TEMPLATE.md) rồi điền vào.
+📝 **Kết thúc phase:** [`review-phase00.md`](./review-phase00.md) — tổng kết + Mini Exam 20 câu
+
+> ✅ **Phase 0 đã viết đầy đủ.** Đọc theo thứ tự 01 → 10, làm lab khi lesson bảo làm,
+> rồi làm Mini Exam. Không cần hỏi AI nếu không muốn.
 
 ---
 
@@ -62,9 +64,11 @@ Xong phase này, bạn phải:
 | Lab | Lesson | Nội dung | File |
 |---|:---:|---|---|
 | LAB 01 | 02 | Chia VLSM cho công ty 4 phòng ban + verify kết nối | [`lab01-vlsm-cong-ty-4-phong-ban.md`](../labs/lab01-vlsm-cong-ty-4-phong-ban.md) |
-| LAB 02 | 05 | Bắt ARP + ICMP bằng Wireshark, đọc từng field | *(chưa tạo)* |
-| LAB 03 | 06 | Bắt TCP 3-way handshake + so sánh với UDP | *(chưa tạo)* |
-| LAB 04 | 07 | Thiết kế IP plan cho công ty 6 phòng ban + 3 WAN link từ một `/23` | *(chưa tạo)* |
+| LAB 02 | 05 | Bắt ARP + ICMP bằng Wireshark, đọc từng field | [`lab02-arp-icmp-wireshark.md`](../labs/lab02-arp-icmp-wireshark.md) |
+| LAB 03 | 06 | TCP 3-way handshake vs UDP · drop vs reject | [`lab03-tcp-udp-wireshark.md`](../labs/lab03-tcp-udp-wireshark.md) |
+| LAB 04 | 07 | Thiết kế IP plan cho doanh nghiệp từ một `/23` | [`lab04-ip-plan-doanh-nghiep.md`](../labs/lab04-ip-plan-doanh-nghiep.md) |
+| LAB 05 | 08 | DHCP server + relay cho 2 VLAN | *(tự tạo từ template)* |
+| LAB 06 | 09 | PAT ra Internet + static NAT cho server | *(tự tạo từ template)* |
 
 ---
 

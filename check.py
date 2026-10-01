@@ -125,7 +125,7 @@ def check_command_tables():
             return None
         return set(re.findall(r"^\| `([^`]+)`", body, re.M))
 
-    a = cmds("README.md", "### Lệnh điều khiển AI giữa buổi")
+    a = cmds("README.md", "### Khi bí — tuỳ chọn, không bắt buộc")
     b = cmds("MENTOR_PROMPT.md", "### Lệnh điều khiển tôi có thể gõ")
     if a is None or b is None:
         return

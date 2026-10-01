@@ -29,38 +29,32 @@
 
 | | |
 |---|---|
-| ✅ **Là** | Một **khung học có kỷ luật** + bộ nhớ ngoài cho AI mentor. Repo giữ *lộ trình*, *tiến độ*, *template*, *lab đã làm*, *lỗi đã gặp*. |
-| ✅ **Là** | Nơi lưu **kết quả học của bạn** — mỗi lesson, mỗi lab bạn làm xong đều được viết lại ở đây bằng chữ của bạn. |
-| ❌ **Không phải** | Một bộ giáo trình viết sẵn để đọc thụ động. Nội dung bài học **được sinh ra trong lúc học**, theo đúng gap kiến thức của bạn. |
+| ✅ **Là** | Một **bộ tài liệu tự học hoàn chỉnh** — mở ra đọc là học được, không cần thầy, không cần hỏi ai. Mỗi lesson đủ 15 phần: concept → vì sao → packet flow → CLI → verify → troubleshoot → lab → kiểm tra. |
+| ✅ **Là** | Nơi lưu **kết quả học của bạn** — lab đã làm, lỗi đã gặp, tiến độ. |
+| ✅ **Có thêm** | [`MENTOR_PROMPT.md`](./MENTOR_PROMPT.md) — **tuỳ chọn**. Khi bí một chỗ, dán nó vào AI để được giảng riêng chỗ đó. Không bắt buộc. |
 | ❌ **Không phải** | Bộ đề thi / dump. Mục tiêu là **làm được việc**, cái chứng chỉ là hệ quả. |
 
-> **Trái tim của repo là [`MENTOR_PROMPT.md`](./MENTOR_PROMPT.md).** Mọi thứ còn lại tồn tại để phục vụ nó.
+> **Đọc theo thứ tự [`ROADMAP.md`](./ROADMAP.md).** Hết Phase 0 → Phase 1 → … → Final Project.
 
 ---
 
 ## 2. Bắt đầu trong 5 phút
 
-### Lần đầu tiên
-
 ```text
-1. Mở MENTOR_PROMPT.md  →  copy TOÀN BỘ  →  dán vào AI (Claude / ChatGPT / Gemini).
-2. AI cho bạn làm ENTRY ASSESSMENT — 30 câu, chia từng cụm 5–7 câu.
-   Ngân hàng câu hỏi có sẵn: assessment/entry-assessment.md
-3. AI chấm  →  chỉ ra knowledge gap  →  dựng roadmap cá nhân hoá.
-4. Bạn chép roadmap đó vào PROGRESS.md  →  commit.
-5. Vào Lesson 1.
+1. Cài Cisco Packet Tracer (netacad.com, miễn phí) + Wireshark.
+2. Mở 00-foundation/README.md  →  đọc lesson-01  →  lesson-02  →  ...
+3. Tới mục "11. LAB" thì DỪNG ĐỌC, mở Packet Tracer làm lab.
+   Làm xong nhớ mục BREAK — phá rồi tự sửa.
+4. Hết lesson: ghi 1 dòng vào PROGRESS.md, tick ROADMAP.md, commit.
+5. Hết phase: làm review-phaseNN.md (mini exam). Dưới 80% thì học lại.
 ```
 
-### Các buổi sau
+**Chỉ cần đọc theo thứ tự.** Không có bước nào bắt buộc phải hỏi AI.
 
-```text
-1. Dán MENTOR_PROMPT.md  +  PROGRESS.md  vào AI.
-2. AI nói: "Bạn đang ở Phase X / Lesson Y, buổi trước học Z, hôm nay tiếp ..."
-3. Học theo BEAT — AI dừng hỏi "đi tiếp?" sau mỗi nhịp.
-4. Cuối buổi AI đưa 1 dòng cập nhật  →  dán vào PROGRESS.md  →  commit.
-```
+### Khi bí — tuỳ chọn, không bắt buộc
 
-### Lệnh điều khiển AI giữa buổi
+Dán [`MENTOR_PROMPT.md`](./MENTOR_PROMPT.md) + [`PROGRESS.md`](./PROGRESS.md) vào AI (Claude / ChatGPT / Gemini)
+để được giảng riêng chỗ đang kẹt, hoặc chấm bài tập. Các lệnh dùng được:
 
 | Gõ | Tác dụng |
 |---|---|

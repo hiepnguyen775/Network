@@ -42,12 +42,13 @@ Tên file: `labNN-ten-khong-dau.md` — ví dụ `lab11-vlan-va-trunk.md`.
 | # | LAB | Phase | Lesson | Công cụ | Độ khó | BREAK ✅ | Ngày |
 |:---:|---|:---:|:---:|---|:---:|:---:|---|
 | 01 | [VLSM cho công ty 4 phòng ban](./lab01-vlsm-cong-ty-4-phong-ban.md) | 0 | 02 | Packet Tracer | ⭐ | ⬜ | — |
-| 02 | *Bắt ARP + ICMP bằng Wireshark* | 0 | 05 | Wireshark | ⭐ | — | *(chưa tạo)* |
-| 03 | *TCP 3-way handshake vs UDP* | 0 | 06 | Wireshark | ⭐ | — | *(chưa tạo)* |
-| 04 | *Thiết kế IP plan từ một `/23`* | 0 | 07 | Giấy + PT | ⭐⭐ | — | *(chưa tạo)* |
+| 02 | [Bắt ARP + ICMP bằng Wireshark](./lab02-arp-icmp-wireshark.md) | 0 | 05 | Wireshark | ⭐ | ⬜ | — |
+| 03 | [TCP 3-way handshake vs UDP](./lab03-tcp-udp-wireshark.md) | 0 | 06 | Wireshark | ⭐ | ⬜ | — |
+| 04 | [Thiết kế IP plan doanh nghiệp](./lab04-ip-plan-doanh-nghiep.md) | 0 | 07 | Giấy + PT | ⭐⭐ | ⬜ | — |
+| 05 | *DHCP server + relay 2 VLAN* | 0 | 08 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
+| 06 | *PAT + static NAT* | 0 | 09 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
 | 10 | *Cisco IOS CLI căn bản* | 1 | 12 | Packet Tracer | ⭐ | — | *(chưa tạo)* |
 | 11 | *VLAN & Trunk giữa 2 switch* | 1 | 13 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
-| — | *(lab tiếp theo thêm vào đây)* | | | | | | |
 
 ---
 
