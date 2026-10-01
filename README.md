@@ -102,6 +102,7 @@ chỉ khi bạn **cố tình phá nó rồi tự tìm lại được nguyên nh�
 ```text
 network-mentor/
 ├── MENTOR_PROMPT.md        ⭐ Prompt điều khiển AI mentor — file quan trọng nhất
+├── check.py                Script kiểm tra nhất quán repo — chạy: python check.py
 ├── ROADMAP.md              Lộ trình 10 phase, tick tiến độ
 ├── PROGRESS.md             Nhật ký học + điểm yếu (state cho AI đọc)
 ├── SO-TAY-LOI.md           Sổ tay lỗi: triệu chứng → nguyên nhân → cách sửa
@@ -169,6 +170,22 @@ Giữ repo sạch bằng 4 quy ước duy nhất:
 | Cheatsheet | `cheatsheets/ten-chu-de.md` | `cheatsheets/subnetting.md` |
 
 Quy tắc chung: **không dấu, chữ thường, nối bằng gạch ngang, số thứ tự 2 chữ số.**
+
+Số LAB được cấp theo **dải riêng cho từng phase** (P0 `01–09`, P1 `10–19`, …) —
+xem [`labs/README.md`](./labs/README.md#-quy-ước-đánh-số-lab).
+
+### Kiểm tra repo còn nhất quán không
+
+Sau mỗi buổi học, khi anh thêm lesson/lab mới:
+
+```bash
+python check.py
+```
+
+Script bắt 8 loại lỗi mà đọc bằng mắt rất khó thấy: link gãy, output quên dán nhãn,
+số LAB trùng hoặc sai dải, số lesson lệch giữa ROADMAP/README/PROGRESS, bảng lệnh
+hai nơi không khớp, assessment sai số câu, đặt tên file sai quy ước.
+Thêm `-v` để xem cả những mục đã đạt.
 
 ---
 
