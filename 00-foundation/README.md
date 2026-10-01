@@ -31,13 +31,13 @@ Xong phase này, bạn phải:
 | 01 | Network là gì · LAN/WAN · mô hình OSI & TCP/IP ⭐ | [`lesson-01-osi-va-tcp-ip.md`](./lesson-01-osi-va-tcp-ip.md) | | ⬜ |
 | 02 | IPv4, subnet mask, CIDR, **subnetting cơ bản** ⭐ | [`lesson-02-ipv4-va-subnetting.md`](./lesson-02-ipv4-va-subnetting.md) | ✅ | ⬜ |
 | 03 | Ethernet · MAC address · Frame · switch học MAC | — | | ⬜ |
-| 04 | Encapsulation / Decapsulation chi tiết | — | | ⬜ |
+| 04 | Unicast · Broadcast · Multicast · broadcast domain | — | | ⬜ |
 | 05 | Default Gateway · ARP · ICMP | — | ✅ | ⬜ |
 | 06 | TCP vs UDP · Port · 3-way handshake ⭐ | — | ✅ | ⬜ |
 | 07 | **VLSM nâng cao** · thiết kế IP plan có dự phòng tăng trưởng | — | ✅ | ⬜ |
 | 08 | DNS · DHCP (DORA) | — | ✅ | ⬜ |
 | 09 | NAT — khái niệm · private vs public IP | — | | ⬜ |
-| 10 | Unicast / Broadcast / Multicast · IPv6 giới thiệu | — | | ⬜ |
+| 10 | IPv6 — giới thiệu: vì sao cần, khác IPv4 ở đâu | — | | ⬜ |
 
 > Lesson chưa có file = chưa học tới. AI sẽ sinh nội dung khi bạn tới lesson đó,
 > bạn copy [`templates/LESSON_TEMPLATE.md`](../templates/LESSON_TEMPLATE.md) rồi điền vào.
@@ -82,5 +82,6 @@ Chỉ sang Phase 1 khi **tất cả** đúng:
 
 - 🧮 [`cheatsheets/subnetting.md`](../cheatsheets/subnetting.md) — bảng magic number + cách tính nhanh
 - 🔌 [`cheatsheets/ports-va-protocols.md`](../cheatsheets/ports-va-protocols.md) — port cần thuộc
+- 🦈 [`cheatsheets/wireshark.md`](../cheatsheets/wireshark.md) — filter + cách đọc gói, cần cho LAB 02 & 03
 - 🃏 [`flashcards/00-foundation.md`](../flashcards/00-foundation.md) — ôn 10 phút/ngày
 - 📝 [`assessment/entry-assessment.md`](../assessment/entry-assessment.md) — kiểm tra đầu vào

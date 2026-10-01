@@ -164,7 +164,7 @@ Giữ repo sạch bằng 4 quy ước duy nhất:
 | Loại | Mẫu tên | Ví dụ |
 |---|---|---|
 | Lesson | `<phase>/lesson-NN-ten-khong-dau.md` | `00-foundation/lesson-02-ipv4-va-subnetting.md` |
-| Lab | `labs/labNN-ten-khong-dau.md` | `labs/lab01-vlan-va-trunk.md` |
+| Lab | `labs/labNN-ten-khong-dau.md` | `labs/lab11-vlan-va-trunk.md` |
 | Flashcard | `flashcards/NN-ten-phase.md` | `flashcards/01-switching.md` |
 | Cheatsheet | `cheatsheets/ten-chu-de.md` | `cheatsheets/subnetting.md` |
 
@@ -202,7 +202,7 @@ Quy tắc chung: **không dấu, chữ thường, nối bằng gạch ngang, s�
 |---|---|---|
 | **Cisco Packet Tracer** | Phase 0 → 6, phần lớn CCNA | Nhẹ nhất, miễn phí qua Cisco NetAcad. Ưu tiên cho người mới. |
 | **GNS3 / EVE-NG / CML** | Phase 7+ (VPN/IPsec), NETCONF, nâng cao | Packet Tracer **không mô phỏng đủ** các phần này |
-| **Wireshark** | Soi ARP, ICMP, DHCP, DNS, TCP handshake, VLAN tag, OSPF | Bắt buộc có — "nhìn thấy gói tin" là bước nhảy về hiểu biết |
+| **Wireshark** | Soi ARP, ICMP, DHCP, DNS, TCP handshake, VLAN tag, OSPF | Bắt buộc có — "nhìn thấy gói tin" là bước nhảy về hiểu biết. Hướng dẫn: [`cheatsheets/wireshark.md`](./cheatsheets/wireshark.md) |
 | **Cisco DevNet Sandbox** | Thiết bị thật, miễn phí, qua mạng | Khi máy không đủ RAM dựng lab nặng |
 
 Khai báo môi trường của bạn trong [`PROGRESS.md`](./PROGRESS.md) để AI đưa lab phù hợp.

@@ -293,6 +293,8 @@ rồi đề xuất **GNS3 / EVE-NG / CML**, hoặc **Cisco DevNet Sandbox** nế
 
 Dùng **Wireshark** để phân tích ARP, ICMP, DHCP, DNS, TCP 3-way handshake, VLAN tag, OSPF
 packets — giải thích từng field quan trọng (nhớ quy tắc output-mẫu-dán-nhãn ở mục 3.7).
+Bộ filter và cách đọc từng giao thức có sẵn tại `cheatsheets/wireshark.md` — dùng nó làm
+chuẩn thay vì tự chế cú pháp filter.
 
 ---
 

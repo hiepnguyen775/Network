@@ -12,6 +12,7 @@
 | [`ports-va-protocols.md`](./ports-va-protocols.md) | Port phải thuộc, protocol number, OSI, TCP vs UDP | 0, 3, 6 |
 | [`show-commands.md`](./show-commands.md) | Lệnh `show` theo tầng + cách đọc output + bảng AD | 1 → 7 |
 | [`troubleshooting-playbook.md`](./troubleshooting-playbook.md) | Cây quyết định, bảng triệu chứng → nghi ngờ, mẫu ghi sự cố | 1 → 7 |
+| [`wireshark.md`](./wireshark.md) | Capture vs display filter, đọc ARP/ICMP/DHCP/DNS/TCP/VLAN, bẫy SPAN | 0 → 7 |
 
 ---
 

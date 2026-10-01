@@ -17,14 +17,14 @@ trong repo có cùng cấu trúc, dễ đọc lại sau 3 tháng.
 
 ```powershell
 Copy-Item templates\LESSON_TEMPLATE.md 00-foundation\lesson-01-osi-va-tcp-ip.md
-Copy-Item templates\LAB_TEMPLATE.md    labs\lab01-vlan-va-trunk.md
+Copy-Item templates\LAB_TEMPLATE.md    labs\lab11-vlan-va-trunk.md
 ```
 
 **Bash / Git Bash**
 
 ```bash
 cp templates/LESSON_TEMPLATE.md 00-foundation/lesson-01-osi-va-tcp-ip.md
-cp templates/LAB_TEMPLATE.md    labs/lab01-vlan-va-trunk.md
+cp templates/LAB_TEMPLATE.md    labs/lab11-vlan-va-trunk.md
 ```
 
 ---

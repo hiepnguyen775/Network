@@ -16,7 +16,7 @@
 | `/28` | `255.255.255.240` | 16 | **14** | Nhóm server |
 | `/29` | `255.255.255.248` | 8 | **6** | Nhóm thiết bị nhỏ |
 | `/30` | `255.255.255.252` | 4 | **2** | **Link point-to-point** |
-| `/31` | `255.255.255.254` | 2 | 0 *(2 host, RFC 3021)* | P2P tiết kiệm IP |
+| `/31` | `255.255.255.254` | 2 | **2** ⚠️ | P2P — ngoại lệ RFC 3021, xem ghi chú dưới |
 | `/32` | `255.255.255.255` | 1 | — | Host đơn / loopback |
 
 ### Prefix lớn hơn /24
@@ -40,6 +40,9 @@ Số subnet       =  2^(số bit mượn)
 ```
 
 > ⚠️ Lỗi phổ biến nhất: quên trừ 2. `2^n` là **tổng số địa chỉ**, không phải số host gán được.
+>
+> ⚠️ **Ngoại lệ `/31`:** công thức cho ra `0`, nhưng **RFC 3021** bỏ quy ước network/broadcast
+> trên link point-to-point nên cả 2 địa chỉ đều gán được → **2 host**. Chỉ áp dụng cho P2P link.
 
 ---
 

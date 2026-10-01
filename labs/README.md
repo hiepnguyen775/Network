@@ -20,12 +20,34 @@ Mỗi lỗi tìm ra → chép sang [`../SO-TAY-LOI.md`](../SO-TAY-LOI.md).
 
 ---
 
+## 🔢 Quy ước đánh số LAB
+
+Mỗi phase được cấp một **dải số riêng** — nhờ vậy lesson có thể tham chiếu tới lab chưa tạo
+mà không bao giờ đụng số của phase khác.
+
+| Phase | Dải LAB | | Phase | Dải LAB |
+|:---:|:---:|---|:---:|:---:|
+| 0 — Foundation | `01 – 09` | | 5 — Wireless | `50 – 59` |
+| 1 — Switching | `10 – 19` | | 6 — Security | `60 – 69` |
+| 2 — Routing | `20 – 29` | | 7 — WAN/VPN | `70 – 79` |
+| 3 — Services | `30 – 39` | | 🏁 Final CCNA Project | `99` |
+| 4 — IPv6 | `40 – 49` | | | |
+
+Tên file: `labNN-ten-khong-dau.md` — ví dụ `lab11-vlan-va-trunk.md`.
+
+---
+
 ## 📋 Index
 
-| # | LAB | Phase | Công cụ | Độ khó | BREAK ✅ | Ngày |
-|:---:|---|:---:|---|:---:|:---:|---|
-| 01 | [VLSM cho công ty 4 phòng ban](./lab01-vlsm-cong-ty-4-phong-ban.md) | 0 | Packet Tracer | ⭐ | ⬜ | — |
-| — | *(các lab tiếp theo thêm vào đây)* | | | | | |
+| # | LAB | Phase | Lesson | Công cụ | Độ khó | BREAK ✅ | Ngày |
+|:---:|---|:---:|:---:|---|:---:|:---:|---|
+| 01 | [VLSM cho công ty 4 phòng ban](./lab01-vlsm-cong-ty-4-phong-ban.md) | 0 | 02 | Packet Tracer | ⭐ | ⬜ | — |
+| 02 | *Bắt ARP + ICMP bằng Wireshark* | 0 | 05 | Wireshark | ⭐ | — | *(chưa tạo)* |
+| 03 | *TCP 3-way handshake vs UDP* | 0 | 06 | Wireshark | ⭐ | — | *(chưa tạo)* |
+| 04 | *Thiết kế IP plan từ một `/23`* | 0 | 07 | Giấy + PT | ⭐⭐ | — | *(chưa tạo)* |
+| 10 | *Cisco IOS CLI căn bản* | 1 | 12 | Packet Tracer | ⭐ | — | *(chưa tạo)* |
+| 11 | *VLAN & Trunk giữa 2 switch* | 1 | 13 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
+| — | *(lab tiếp theo thêm vào đây)* | | | | | | |
 
 ---
 

@@ -325,7 +325,7 @@ Gi0/1   10,20,99
 
 ## 11. LAB
 
-🧪 **LAB 02 — VLAN & Trunk giữa 2 switch** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md))*
+🧪 **LAB 11 — VLAN & Trunk giữa 2 switch** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md))*
 
 Yêu cầu tối thiểu: 2 switch, 4 PC, 2 VLAN, 1 trunk, native VLAN đổi sang 999,
 và **bắt buộc BREAK 3 lỗi**: sai VLAN access · native VLAN mismatch · VLAN không allowed trên trunk.
@@ -411,7 +411,7 @@ không tag — server sẽ không phân biệt được traffic thuộc VLAN nà
 
 **Homework**
 
-1. Làm LAB 02 đầy đủ, **bao gồm 3 lỗi BREAK**.
+1. Làm LAB 11 đầy đủ, **bao gồm 3 lỗi BREAK**.
 2. Vẽ sơ đồ VLAN cho công ty bạn đang làm (hoặc tưởng tượng), kèm subnet từng VLAN.
 3. Giải thích cho một đồng nghiệp không làm network: *"VLAN là gì và vì sao công ty cần nó"* — trong 3 phút.
 
