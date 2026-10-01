@@ -1,0 +1,95 @@
+# 🧪 LABS
+
+> Mỗi LAB một file: `labNN-ten-khong-dau.md`, tạo từ [`../templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md).
+> Luôn giữ lại **cấu hình cuối** + **ghi chú lỗi** ở mục BREAK.
+
+---
+
+## ⚠️ Quy tắc bất di bất dịch
+
+> **Lab chưa làm bước BREAK là lab chưa xong.**
+
+Cấu hình chạy được chỉ chứng minh bạn **gõ đúng**. Cố tình phá rồi tự tìm lại được nguyên nhân
+mới chứng minh bạn **hiểu**. Mỗi lab phải phá tối thiểu **3 lỗi** và ghi lại đủ 5 cột:
+
+```
+triệu chứng → lệnh đã dùng → nguyên nhân gốc → cách sửa → bài học
+```
+
+Mỗi lỗi tìm ra → chép sang [`../SO-TAY-LOI.md`](../SO-TAY-LOI.md).
+
+---
+
+## 📋 Index
+
+| # | LAB | Phase | Công cụ | Độ khó | BREAK ✅ | Ngày |
+|:---:|---|:---:|---|:---:|:---:|---|
+| 01 | [VLSM cho công ty 4 phòng ban](./lab01-vlsm-cong-ty-4-phong-ban.md) | 0 | Packet Tracer | ⭐ | ⬜ | — |
+| — | *(các lab tiếp theo thêm vào đây)* | | | | | |
+
+---
+
+## 🏁 FINAL CCNA PROJECT
+
+> Làm sau khi xong Phase 7. Đây là bài tổng hợp — nếu làm được bài này mà không mở tài liệu,
+> bạn đã sẵn sàng thi và, quan trọng hơn, sẵn sàng làm việc.
+
+### Đề bài
+
+Thiết kế và triển khai network cho một công ty **100–300 users**:
+
+| Hạng mục | Yêu cầu |
+|---|---|
+| Quy mô | 2 tầng văn phòng, 1 phòng server, ~6 phòng ban |
+| WAN | 2 đường Internet (dual-WAN, có failover) |
+| Wireless | Phủ sóng 2 tầng, SSID riêng cho nhân viên và khách |
+| Server | DHCP, DNS, file server nội bộ |
+
+### Bắt buộc có
+
+- [ ] **IP plan bằng VLSM** — không lãng phí, có dự phòng tăng trưởng 30%
+- [ ] **VLAN** theo phòng ban + VLAN riêng cho management, voice, guest
+- [ ] **Inter-VLAN routing** bằng L3 switch (SVI)
+- [ ] **STP** có root bridge được chỉ định rõ ràng (không để bầu ngẫu nhiên)
+- [ ] **EtherChannel** giữa switch core và distribution
+- [ ] **DHCP** (có relay cho VLAN khác) + **DNS**
+- [ ] **Static + OSPF** (ít nhất 2 area)
+- [ ] **NAT/PAT** ra Internet
+- [ ] **ACL**: guest không vào được mạng nội bộ; chỉ IT vào được VLAN management
+- [ ] **SSH** quản trị, tắt telnet
+- [ ] **Wireless** với WPA2-Enterprise cho nhân viên, WPA2-PSK cho khách
+- [ ] **Floating static** làm backup khi OSPF chết
+
+### Nộp gì
+
+| Sản phẩm | Mô tả |
+|---|---|
+| `topology.png` hoặc sơ đồ ASCII | Sơ đồ đầy đủ, ghi rõ interface và IP |
+| `ip-plan.md` | Bảng VLSM đầy đủ, giải thích cách chia |
+| `configs/` | Cấu hình đầy đủ từng thiết bị |
+| `verification.md` | Output `show` chứng minh từng yêu cầu đã đạt |
+| `troubleshooting.md` | **Nhật ký lỗi đã gặp** — phần quan trọng nhất |
+
+### Buổi troubleshooting cuối
+
+Nhờ người khác (hoặc AI) **phá 5 lỗi** trong file cấu hình của bạn mà không cho biết là lỗi gì.
+Tự tìm lại trong **60 phút**. Đây là bài kiểm tra thật sự.
+
+---
+
+## 📂 Gợi ý tổ chức thư mục cho Final Project
+
+```text
+labs/
+└── final-ccna-project/
+    ├── README.md
+    ├── topology.png
+    ├── ip-plan.md
+    ├── verification.md
+    ├── troubleshooting.md
+    └── configs/
+        ├── CORE-SW1.txt
+        ├── DIST-SW1.txt
+        ├── ACCESS-SW1.txt
+        └── EDGE-R1.txt
+```

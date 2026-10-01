@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.md text diff=markdown
+*.pkt binary
+*.pka binary
+*.unl text

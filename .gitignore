@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+*.swp
+*~
+.vscode/
+.idea/
+
+# File lab tạm / export cấu hình thô
+*.pkt.bak
+*.unl.bak
+scratch/
+tmp/
+
+# Không commit file nhị phân nặng của lab
+*.ova
+*.qcow2
+*.vmdk
