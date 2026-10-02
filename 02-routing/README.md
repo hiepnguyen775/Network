@@ -25,13 +25,29 @@
 
 | # | Lesson | File | 🧪 Lab | Trạng thái |
 |:---:|---|---|:---:|:---:|
-| 18 | Router quyết định đường đi thế nào · routing table · connected/local | — | | ⬜ |
-| 19 | Static route · default route · floating static | — | ✅ | ⬜ |
-| 20 | Administrative Distance · Metric · Longest prefix match ⭐ | — | ✅ | ⬜ |
-| 21 | Dynamic routing — bức tranh chung · RIPv2 (chỉ concept) | — | | ⬜ |
-| 22 | OSPF single-area: neighbor, states, hello/dead, DR/BDR ⭐ | — | ✅ | ⬜ |
-| 23 | OSPF Cost · Router ID · LSDB · LSA type 1–3 ⭐ | — | ✅ | ⬜ |
-| 24 | OSPF multi-area · ABR · summarization cơ bản | — | ✅ | ⬜ |
+| 18 | Router hoạt động thế nào · routing table · RIB/FIB | [`lesson-18-router-va-routing-table.md`](./lesson-18-router-va-routing-table.md) | LAB 20 | ⬜ |
+| 19 | Static · default · **floating static** | [`lesson-19-static-default-route.md`](./lesson-19-static-default-route.md) | LAB 21 | ⬜ |
+| 20 | AD · Metric · **Longest Prefix Match** ⭐ | [`lesson-20-ad-metric-longest-prefix.md`](./lesson-20-ad-metric-longest-prefix.md) | LAB 22 | ⬜ |
+| 21 | Dynamic routing — bức tranh chung · RIP | [`lesson-21-dynamic-routing-rip.md`](./lesson-21-dynamic-routing-rip.md) | | ⬜ |
+| 22 | OSPF single-area: state, DR/BDR ⭐ | [`lesson-22-ospf-single-area.md`](./lesson-22-ospf-single-area.md) | LAB 23 | ⬜ |
+| 23 | OSPF Cost · LSDB · LSA Type 1/2/3 ⭐ | [`lesson-23-ospf-cost-lsdb-lsa.md`](./lesson-23-ospf-cost-lsdb-lsa.md) | LAB 23 | ⬜ |
+| 24 | OSPF multi-area · ABR · summarization | [`lesson-24-ospf-multi-area.md`](./lesson-24-ospf-multi-area.md) | LAB 24 | ⬜ |
+
+📝 **Kết thúc phase:** [`review-phase02.md`](./review-phase02.md) — tổng kết + Mini Exam 20 câu
+
+> ✅ **Phase 2 đã viết đầy đủ.** Đây là phase quan trọng nhất của CCNA — đừng lướt.
+
+---
+
+## 🧪 Lab của phase
+
+| Lab | Lesson | Nội dung | File |
+|---|:---:|---|---|
+| LAB 20 | 18 | Routing table cơ bản, `C`/`L`, interface down | *(tự tạo từ template)* |
+| LAB 21 | 19 | Static · default · floating static failover | *(tự tạo từ template)* |
+| LAB 22 | 20 | Thứ tự chọn route, longest prefix match, ECMP | *(tự tạo từ template)* |
+| LAB 23 | 22, 23 | **OSPF single-area: neighbor, DR/BDR, đọc LSDB** | [`lab23-ospf-single-area.md`](../labs/lab23-ospf-single-area.md) |
+| LAB 24 | 24 | OSPF multi-area & summarization | *(tự tạo từ template)* |
 
 ---
 

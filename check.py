@@ -242,8 +242,12 @@ def check_labs():
     # 6a. cùng số LAB không được mang 2 tên khác nhau
     titles = defaultdict(set)
     for p in md_files():
-        for m in re.finditer(r"LAB (\d{2})\s*[—–-]\s*([^\n*|\]]+)", read(p)):
-            titles[m.group(1)].add(m.group(2).strip().rstrip("*").strip()[:40].lower())
+        for m in re.finditer(r"LAB (\d{2})\s*[—–-]\s+([^\n*|\]]+)", read(p)):
+            name = m.group(2).strip().rstrip("*").strip()[:40].lower()
+            # bỏ qua khi dấu gạch chỉ là dấu câu trong văn xuôi, không phải tên lab
+            if len(name) < 4:
+                continue
+            titles[m.group(1)].add(name)
     for num, names in sorted(titles.items()):
         if len(names) > 1:
             fail("lab-số", f"LAB {num} được dùng cho {len(names)} nội dung khác nhau: {sorted(names)}")
