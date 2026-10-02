@@ -47,12 +47,12 @@ Tên file: `labNN-ten-khong-dau.md` — ví dụ `lab11-vlan-va-trunk.md`.
 | 04 | [Thiết kế IP plan doanh nghiệp](./lab04-ip-plan-doanh-nghiep.md) | 0 | 07 | Giấy + PT | ⭐⭐ | ⬜ | — |
 | 05 | [DHCP server + relay 2 VLAN](lab05-dhcp-server-relay.md) | 0 | 08 | Packet Tracer | ⭐⭐ | — | ⬜ |
 | 06 | [PAT + static NAT](lab06-pat-static-nat.md) | 0 | 09 | Packet Tracer | ⭐⭐ | — | ⬜ |
-| 10 | *Cisco IOS CLI căn bản* | 1 | 12 | Packet Tracer | ⭐ | — | *(chưa tạo)* |
+| 10 | [Cisco IOS CLI căn bản](lab10-cisco-ios-cli.md) | 1 | 12 | Packet Tracer | ⭐ | — | ⬜ |
 | 11 | [VLAN & Trunk giữa 2 switch](./lab11-vlan-va-trunk.md) | 1 | 13 | Packet Tracer | ⭐⭐ | ⬜ | — |
 | 12 | [Inter-VLAN Routing: RoAS và SVI](./lab12-inter-vlan-routing.md) | 1 | 14 | Packet Tracer | ⭐⭐ | ⬜ | — |
 | 13 | [STP: root, port role, storm](./lab13-stp.md) | 1 | 15 | Packet Tracer | ⭐⭐⭐ | ⬜ | — |
-| 14 | *RSTP, PortFast, BPDU Guard* | 1 | 16 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
-| 15 | *EtherChannel + Port Security* | 1 | 17 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
+| 14 | [RSTP, PortFast, BPDU Guard](lab14-rstp-bpduguard.md) | 1 | 16 | Packet Tracer | ⭐⭐ | — | ⬜ |
+| 15 | [EtherChannel + Port Security](lab15-etherchannel-portsec.md) | 1 | 17 | Packet Tracer | ⭐⭐ | — | ⬜ |
 | 20 | [Routing table cơ bản](./lab20-routing-table-co-ban.md) | 2 | 18 | Packet Tracer | ⭐ | ⬜ | — |
 | 21 | [Static · Default · Floating Static](./lab21-static-default-floating.md) | 2 | 19 | Packet Tracer | ⭐⭐ | ⬜ | — |
 | 22 | [Thứ tự chọn route: Longest Prefix · AD · Metric](./lab22-thu-tu-chon-route.md) | 2 | 20 | Packet Tracer | ⭐⭐ | ⬜ | — |

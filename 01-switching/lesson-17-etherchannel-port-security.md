@@ -443,7 +443,7 @@ và bảo vệ bằng cách khác (802.1X, kiểm soát truy cập vật lý).
 
 ## 11. LAB
 
-🧪 **Bài lab của lesson này** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md), đánh số **LAB 15**)*
+🧪 **LAB 15 — EtherChannel LACP + Port Security** → [`../labs/lab15-etherchannel-portsec.md`](../labs/lab15-etherchannel-portsec.md)
 
 Yêu cầu tối thiểu:
 

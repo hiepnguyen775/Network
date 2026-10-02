@@ -393,7 +393,7 @@ SW1# show crypto key mypubkey rsa
 
 ## 11. LAB
 
-🧪 **LAB 10 — Cisco IOS CLI căn bản** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md), lưu thành `labs/lab10-cisco-ios-cli.md`)*
+🧪 **LAB 10 — Cisco IOS CLI căn bản** → [`../labs/lab10-cisco-ios-cli.md`](../labs/lab10-cisco-ios-cli.md)
 
 Yêu cầu tối thiểu: cấu hình switch mới từ số 0 (hostname, SSH, SVI quản trị, port range,
 tắt port không dùng), backup config ra TFTP, rồi **BREAK**: (1) reload khi chưa `wr`;

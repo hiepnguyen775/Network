@@ -414,7 +414,7 @@ Gi1/0/5        bpduguard             217
 
 ## 11. LAB
 
-🧪 **Bài lab của lesson này** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md), đánh số **LAB 14**)*
+🧪 **LAB 14 — RSTP, PortFast, BPDU Guard — đo thời gian hội tụ** → [`../labs/lab14-rstp-bpduguard.md`](../labs/lab14-rstp-bpduguard.md)
 
 Yêu cầu tối thiểu:
 

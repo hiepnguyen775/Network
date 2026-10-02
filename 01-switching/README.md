@@ -44,12 +44,12 @@
 
 | Lab | Lesson | Nội dung | File |
 |---|:---:|---|---|
-| LAB 10 | 12 | Cisco IOS CLI căn bản, SSH, backup config | *(tự tạo từ template)* |
+| LAB 10 | 12 | Cisco IOS CLI căn bản, SSH, backup config | [`../labs/lab10-cisco-ios-cli.md`](../labs/lab10-cisco-ios-cli.md) |
 | LAB 11 | 13 | VLAN & Trunk giữa 2 switch | [`lab11-vlan-va-trunk.md`](../labs/lab11-vlan-va-trunk.md) |
 | LAB 12 | 14 | Inter-VLAN routing: RoAS **và** SVI | [`lab12-inter-vlan-routing.md`](../labs/lab12-inter-vlan-routing.md) |
 | LAB 13 | 15 | STP: bầu root, port role, broadcast storm | [`lab13-stp.md`](../labs/lab13-stp.md) |
-| LAB 14 | 16 | RSTP, PortFast, BPDU Guard — đo thời gian hội tụ | *(tự tạo từ template)* |
-| LAB 15 | 17 | EtherChannel LACP + Port Security | *(tự tạo từ template)* |
+| LAB 14 | 16 | RSTP, PortFast, BPDU Guard — đo thời gian hội tụ | [`../labs/lab14-rstp-bpduguard.md`](../labs/lab14-rstp-bpduguard.md) |
+| LAB 15 | 17 | EtherChannel LACP + Port Security | [`../labs/lab15-etherchannel-portsec.md`](../labs/lab15-etherchannel-portsec.md) |
 
 ---
 
