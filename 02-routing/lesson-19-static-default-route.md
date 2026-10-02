@@ -317,7 +317,7 @@ R1# show ip route | include 0.0.0.0
 
 ## 11. LAB
 
-🧪 **LAB 21 — Static, Default & Floating Static** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md))*
+🧪 **[LAB 21 — Static · Default · Floating Static](../labs/lab21-static-default-floating.md)**
 
 Yêu cầu tối thiểu:
 

@@ -43,11 +43,11 @@
 
 | Lab | Lesson | Nội dung | File |
 |---|:---:|---|---|
-| LAB 20 | 18 | Routing table cơ bản, `C`/`L`, interface down | *(tự tạo từ template)* |
-| LAB 21 | 19 | Static · default · floating static failover | *(tự tạo từ template)* |
-| LAB 22 | 20 | Thứ tự chọn route, longest prefix match, ECMP | *(tự tạo từ template)* |
+| LAB 20 | 18 | Routing table cơ bản, `C`/`L`, interface down | [`lab20-routing-table-co-ban.md`](../labs/lab20-routing-table-co-ban.md) |
+| LAB 21 | 19 | Static · default · floating static failover | [`lab21-static-default-floating.md`](../labs/lab21-static-default-floating.md) |
+| LAB 22 | 20 | Thứ tự chọn route: longest prefix · AD · metric · ECMP | [`lab22-thu-tu-chon-route.md`](../labs/lab22-thu-tu-chon-route.md) |
 | LAB 23 | 22, 23 | **OSPF single-area: neighbor, DR/BDR, đọc LSDB** | [`lab23-ospf-single-area.md`](../labs/lab23-ospf-single-area.md) |
-| LAB 24 | 24 | OSPF multi-area & summarization | *(tự tạo từ template)* |
+| LAB 24 | 24 | OSPF multi-area & summarization | [`lab24-ospf-multi-area.md`](../labs/lab24-ospf-multi-area.md) |
 
 ---
 

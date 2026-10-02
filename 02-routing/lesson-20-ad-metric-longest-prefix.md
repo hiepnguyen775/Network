@@ -341,7 +341,7 @@ Hai `Routing Descriptor Blocks` cùng metric → **ECMP đang hoạt động**.
 
 ## 11. LAB
 
-🧪 **LAB 22 — Thứ tự chọn route** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md))*
+🧪 **[LAB 22 — Thứ tự chọn route: Longest Prefix · AD · Metric](../labs/lab22-thu-tu-chon-route.md)**
 
 Yêu cầu tối thiểu:
 

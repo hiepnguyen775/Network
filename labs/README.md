@@ -53,11 +53,11 @@ Tên file: `labNN-ten-khong-dau.md` — ví dụ `lab11-vlan-va-trunk.md`.
 | 13 | [STP: root, port role, storm](./lab13-stp.md) | 1 | 15 | Packet Tracer | ⭐⭐⭐ | ⬜ | — |
 | 14 | *RSTP, PortFast, BPDU Guard* | 1 | 16 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
 | 15 | *EtherChannel + Port Security* | 1 | 17 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
-| 20 | *Routing table cơ bản* | 2 | 18 | Packet Tracer | ⭐ | — | *(chưa tạo)* |
-| 21 | *Static, default, floating static* | 2 | 19 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
-| 22 | *Thứ tự chọn route, longest prefix* | 2 | 20 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
+| 20 | [Routing table cơ bản](./lab20-routing-table-co-ban.md) | 2 | 18 | Packet Tracer | ⭐ | ⬜ | — |
+| 21 | [Static · Default · Floating Static](./lab21-static-default-floating.md) | 2 | 19 | Packet Tracer | ⭐⭐ | ⬜ | — |
+| 22 | [Thứ tự chọn route: Longest Prefix · AD · Metric](./lab22-thu-tu-chon-route.md) | 2 | 20 | Packet Tracer | ⭐⭐ | ⬜ | — |
 | 23 | [OSPF single-area: neighbor, DR/BDR, đọc LSDB](./lab23-ospf-single-area.md) | 2 | 22 | Packet Tracer | ⭐⭐⭐ | ⬜ | — |
-| 24 | *OSPF multi-area & summarization* | 2 | 24 | Packet Tracer | ⭐⭐⭐ | — | *(chưa tạo)* |
+| 24 | [OSPF Multi-Area & Summarization](./lab24-ospf-multi-area.md) | 2 | 24 | Packet Tracer | ⭐⭐⭐ | ⬜ | — |
 | 30 | *DHCP server + relay + reservation* | 3 | 25 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
 | 31 | *DNS nội bộ, nslookup, file hosts* | 3 | 26 | PT + máy thật | ⭐⭐ | — | *(chưa tạo)* |
 | 32 | *PAT, port forwarding, dual-WAN NAT* | 3 | 27 | Packet Tracer | ⭐⭐⭐ | — | *(chưa tạo)* |

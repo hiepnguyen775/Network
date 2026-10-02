@@ -384,7 +384,7 @@ i 10.10.10.10 [1] via 10.1.0.1, GigabitEthernet0/0, ABR, Area 1, SPF 8
 
 ## 11. LAB
 
-🧪 **LAB 24 — OSPF multi-area & summarization** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md))*
+🧪 **[LAB 24 — OSPF Multi-Area & Summarization](../labs/lab24-ospf-multi-area.md)**
 
 Yêu cầu tối thiểu:
 

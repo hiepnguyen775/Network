@@ -277,7 +277,7 @@ Routing entry for 10.0.2.0/24
 
 ## 11. LAB
 
-🧪 **LAB 20 — Routing table cơ bản** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md))*
+🧪 **[LAB 20 — Routing table cơ bản](../labs/lab20-routing-table-co-ban.md)**
 
 Yêu cầu tối thiểu:
 
