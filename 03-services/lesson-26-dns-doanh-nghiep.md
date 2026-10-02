@@ -379,7 +379,7 @@ google.com               None  (temp, OK)  2   IP    142.250.x.x
 
 ## 11. LAB
 
-🧪 **LAB 31 — DNS trong doanh nghiệp** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md))*
+🧪 **LAB 31 — DNS trong doanh nghiệp** → [`../labs/lab31-dns-noi-bo.md`](../labs/lab31-dns-noi-bo.md)
 
 Yêu cầu tối thiểu:
 

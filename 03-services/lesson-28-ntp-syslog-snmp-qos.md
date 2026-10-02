@@ -419,7 +419,7 @@ Log Buffer (32768 bytes):
 
 ## 11. LAB
 
-🧪 **LAB 33 — Management plane: NTP, Syslog, SNMP** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md))*
+🧪 **LAB 33 — Management plane: NTP, Syslog, SNMP** → [`../labs/lab33-ntp-syslog-snmp.md`](../labs/lab33-ntp-syslog-snmp.md)
 
 Yêu cầu tối thiểu:
 

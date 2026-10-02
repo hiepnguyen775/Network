@@ -42,10 +42,10 @@
 
 | Lab | Lesson | Nội dung | File |
 |---|:---:|---|---|
-| LAB 30 | 25 | DHCP server + relay + reservation | *(tự tạo từ template)* |
-| LAB 31 | 26 | DNS nội bộ, nslookup so sánh, file hosts | *(tự tạo từ template)* |
-| LAB 32 | 27 | PAT, port forwarding, dual-WAN NAT | *(tự tạo từ template)* |
-| LAB 33 | 28 | NTP + Syslog + SNMP (management plane) | *(tự tạo từ template)* |
+| LAB 30 | 25 | DHCP server + relay + reservation | [`../labs/lab30-dhcp-reservation.md`](../labs/lab30-dhcp-reservation.md) |
+| LAB 31 | 26 | DNS nội bộ, nslookup so sánh, file hosts | [`../labs/lab31-dns-noi-bo.md`](../labs/lab31-dns-noi-bo.md) |
+| LAB 32 | 27 | PAT, port forwarding, dual-WAN NAT | [`../labs/lab32-nat-nang-cao.md`](../labs/lab32-nat-nang-cao.md) |
+| LAB 33 | 28 | NTP + Syslog + SNMP (management plane) | [`../labs/lab33-ntp-syslog-snmp.md`](../labs/lab33-ntp-syslog-snmp.md) |
 
 ---
 

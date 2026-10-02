@@ -58,10 +58,10 @@ Tên file: `labNN-ten-khong-dau.md` — ví dụ `lab11-vlan-va-trunk.md`.
 | 22 | [Thứ tự chọn route: Longest Prefix · AD · Metric](./lab22-thu-tu-chon-route.md) | 2 | 20 | Packet Tracer | ⭐⭐ | ⬜ | — |
 | 23 | [OSPF single-area: neighbor, DR/BDR, đọc LSDB](./lab23-ospf-single-area.md) | 2 | 22 | Packet Tracer | ⭐⭐⭐ | ⬜ | — |
 | 24 | [OSPF Multi-Area & Summarization](./lab24-ospf-multi-area.md) | 2 | 24 | Packet Tracer | ⭐⭐⭐ | ⬜ | — |
-| 30 | *DHCP server + relay + reservation* | 3 | 25 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
-| 31 | *DNS nội bộ, nslookup, file hosts* | 3 | 26 | PT + máy thật | ⭐⭐ | — | *(chưa tạo)* |
-| 32 | *PAT, port forwarding, dual-WAN NAT* | 3 | 27 | Packet Tracer | ⭐⭐⭐ | — | *(chưa tạo)* |
-| 33 | *NTP + Syslog + SNMP* | 3 | 28 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
+| 30 | [DHCP server + relay + reservation](lab30-dhcp-reservation.md) | 3 | 25 | Packet Tracer | ⭐⭐ | — | ⬜ |
+| 31 | [DNS nội bộ, nslookup, file hosts](lab31-dns-noi-bo.md) | 3 | 26 | PT + máy thật | ⭐⭐ | — | ⬜ |
+| 32 | [PAT, port forwarding, dual-WAN NAT](lab32-nat-nang-cao.md) | 3 | 27 | Packet Tracer | ⭐⭐⭐ | — | ⬜ |
+| 33 | [NTP + Syslog + SNMP](lab33-ntp-syslog-snmp.md) | 3 | 28 | Packet Tracer | ⭐⭐ | — | ⬜ |
 | 40 | *IPv6 addressing plan, EUI-64* | 4 | 29 | Giấy + PT | ⭐⭐ | — | *(chưa tạo)* |
 | 41 | *SLAAC, NDP, DHCPv6 3 chế độ* | 4 | 30 | PT + Wireshark | ⭐⭐⭐ | — | *(chưa tạo)* |
 | 42 | *IPv6 routing, OSPFv3, dual-stack* | 4 | 31 | Packet Tracer | ⭐⭐⭐ | — | *(chưa tạo)* |

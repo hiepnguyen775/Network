@@ -431,7 +431,7 @@ Dynamic mappings:
 
 ## 11. LAB
 
-🧪 **LAB 32 — NAT nâng cao** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md))*
+🧪 **LAB 32 — NAT nâng cao** → [`../labs/lab32-nat-nang-cao.md`](../labs/lab32-nat-nang-cao.md)
 
 Yêu cầu tối thiểu:
 

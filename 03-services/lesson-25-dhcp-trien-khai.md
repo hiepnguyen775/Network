@@ -403,7 +403,7 @@ DHCPD: Sending DHCPACK to client 0100.1a2b.3c4d.5e (10.0.20.57).
 
 ## 11. LAB
 
-🧪 **LAB 30 — DHCP server + relay + reservation** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md))*
+🧪 **LAB 30 — DHCP server + relay + reservation** → [`../labs/lab30-dhcp-reservation.md`](../labs/lab30-dhcp-reservation.md)
 
 Yêu cầu tối thiểu:
 
