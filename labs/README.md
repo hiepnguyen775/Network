@@ -58,6 +58,10 @@ Tên file: `labNN-ten-khong-dau.md` — ví dụ `lab11-vlan-va-trunk.md`.
 | 22 | *Thứ tự chọn route, longest prefix* | 2 | 20 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
 | 23 | [OSPF single-area: neighbor, DR/BDR, đọc LSDB](./lab23-ospf-single-area.md) | 2 | 22 | Packet Tracer | ⭐⭐⭐ | ⬜ | — |
 | 24 | *OSPF multi-area & summarization* | 2 | 24 | Packet Tracer | ⭐⭐⭐ | — | *(chưa tạo)* |
+| 30 | *DHCP server + relay + reservation* | 3 | 25 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
+| 31 | *DNS nội bộ, nslookup, file hosts* | 3 | 26 | PT + máy thật | ⭐⭐ | — | *(chưa tạo)* |
+| 32 | *PAT, port forwarding, dual-WAN NAT* | 3 | 27 | Packet Tracer | ⭐⭐⭐ | — | *(chưa tạo)* |
+| 33 | *NTP + Syslog + SNMP* | 3 | 28 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
 ---
 
 ## 🏁 FINAL CCNA PROJECT

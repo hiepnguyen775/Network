@@ -25,10 +25,27 @@
 
 | # | Lesson | File | 🧪 Lab | Trạng thái |
 |:---:|---|---|:---:|:---:|
-| 25 | DHCP: DORA · server trên router · relay (`ip helper-address`) | — | ✅ | ⬜ |
-| 26 | DNS: phân giải tên · record type · cấu hình trên IOS | — | ✅ | ⬜ |
-| 27 | NAT: static · dynamic · **PAT** ⭐ · inside/outside | — | ✅ | ⬜ |
-| 28 | NTP · Syslog · SNMP · SSH · QoS fundamentals | — | ✅ | ⬜ |
+| 25 | **DHCP triển khai**: option, reservation, relay nhiều server | [`lesson-25-dhcp-trien-khai.md`](./lesson-25-dhcp-trien-khai.md) | LAB 30 | ⬜ |
+| 26 | **DNS doanh nghiệp**: zone, split-DNS, TTL strategy | [`lesson-26-dns-doanh-nghiep.md`](./lesson-26-dns-doanh-nghiep.md) | LAB 31 | ⬜ |
+| 27 | **NAT nâng cao**: port forwarding, dual-WAN, NAT+VPN ⭐ | [`lesson-27-nat-nang-cao.md`](./lesson-27-nat-nang-cao.md) | LAB 32 | ⬜ |
+| 28 | NTP · Syslog · SNMP · QoS fundamentals | [`lesson-28-ntp-syslog-snmp-qos.md`](./lesson-28-ntp-syslog-snmp-qos.md) | LAB 33 | ⬜ |
+
+📝 **Kết thúc phase:** [`review-phase03.md`](./review-phase03.md) — tổng kết + Mini Exam 20 câu
+
+> 📦 **Phase 3 xây trên Phase 0.** Lesson 08 (DNS/DHCP) và 09 (NAT) đã dạy **khái niệm**;
+> phase này dạy **triển khai & vận hành**. Mỗi lesson có hộp "Phase 0 đã dạy gì —
+> lesson này thêm gì" ở đầu.
+
+---
+
+## 🧪 Lab của phase
+
+| Lab | Lesson | Nội dung | File |
+|---|:---:|---|---|
+| LAB 30 | 25 | DHCP server + relay + reservation | *(tự tạo từ template)* |
+| LAB 31 | 26 | DNS nội bộ, nslookup so sánh, file hosts | *(tự tạo từ template)* |
+| LAB 32 | 27 | PAT, port forwarding, dual-WAN NAT | *(tự tạo từ template)* |
+| LAB 33 | 28 | NTP + Syslog + SNMP (management plane) | *(tự tạo từ template)* |
 
 ---
 
