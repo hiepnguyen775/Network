@@ -66,10 +66,10 @@ Tên file: `labNN-ten-khong-dau.md` — ví dụ `lab11-vlan-va-trunk.md`.
 | 41 | *SLAAC, NDP, DHCPv6 3 chế độ* | 4 | 30 | PT + Wireshark | ⭐⭐⭐ | — | *(chưa tạo)* |
 | 42 | *IPv6 routing, OSPFv3, dual-stack* | 4 | 31 | Packet Tracer | ⭐⭐⭐ | — | *(chưa tạo)* |
 | 50 | *Bảo mật Wi-Fi: PSK, 802.1X, ACL guest* | 5 | 34 | Packet Tracer | ⭐⭐⭐ | — | *(chưa tạo)* |
-| 60 | *AAA: TACACS+, RADIUS, fallback local* | 6 | 35 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
-| 61 | *ACL standard & extended, debug counter* | 6 | 36 | Packet Tracer | ⭐⭐⭐ | — | *(chưa tạo)* |
-| 62 | *DHCP Snooping, DAI, IPSG đúng thứ tự* | 6 | 37 | Packet Tracer | ⭐⭐⭐ | — | *(chưa tạo)* |
-| 63 | *3 tấn công L2 và phòng thủ* | 6 | 38 | Packet Tracer | ⭐⭐⭐ | — | *(chưa tạo)* |
+| 60 | [AAA: TACACS+, RADIUS, fallback local](lab60-aaa-tacacs-radius.md) | 6 | 35 | Packet Tracer | ⭐⭐ | — | ⬜ |
+| 61 | [ACL standard & extended, debug counter](lab61-acl.md) | 6 | 36 | Packet Tracer | ⭐⭐⭐ | — | ⬜ |
+| 62 | [DHCP Snooping, DAI, IPSG đúng thứ tự](lab62-dhcp-snooping-dai-ipsg.md) | 6 | 37 | Packet Tracer | ⭐⭐⭐ | — | ⬜ |
+| 63 | [3 tấn công L2 và phòng thủ](lab63-tan-cong-lop-2.md) | 6 | 38 | Packet Tracer | ⭐⭐⭐ | — | ⬜ |
 | 70 | *Dual-WAN + IP SLA + track* | 7 | 39 | Packet Tracer | ⭐⭐⭐ | — | *(chưa tạo)* |
 | 71 | *GRE over IPsec site-to-site* ⚠️ GNS3 | 7 | 40 | **GNS3/EVE-NG** | ⭐⭐⭐ | — | *(chưa tạo)* |
 | 72 | *Hub-and-spoke 3 site + remote access* | 7 | 41 | GNS3 + máy thật | ⭐⭐⭐ | — | *(chưa tạo)* |

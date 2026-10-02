@@ -467,7 +467,7 @@ Gi1/0/6    ip-mac       active       10.0.10.58      001A.2B3C.4D6F    10
 
 ## 11. LAB
 
-🧪 **LAB 62 — DHCP Snooping, DAI, IPSG** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md))*
+🧪 **LAB 62 — DHCP Snooping, DAI, IPSG** → [`../labs/lab62-dhcp-snooping-dai-ipsg.md`](../labs/lab62-dhcp-snooping-dai-ipsg.md)
 
 Yêu cầu tối thiểu:
 

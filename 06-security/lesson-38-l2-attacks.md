@@ -457,7 +457,7 @@ Gi1/0/48    on       802.1q         trunking      999
 
 ## 11. LAB
 
-🧪 **LAB 63 — Tấn công L2 và phòng thủ** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md))*
+🧪 **LAB 63 — Tấn công L2 và phòng thủ** → [`../labs/lab63-tan-cong-lop-2.md`](../labs/lab63-tan-cong-lop-2.md)
 
 Yêu cầu tối thiểu:
 

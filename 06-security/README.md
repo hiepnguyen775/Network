@@ -41,10 +41,10 @@
 
 | Lab | Lesson | Nội dung | File |
 |---|:---:|---|---|
-| LAB 60 | 35 | AAA với TACACS+ và RADIUS, fallback local | *(tự tạo từ template)* |
-| LAB 61 | 36 | ACL standard và extended, debug bằng counter | *(tự tạo từ template)* |
-| LAB 62 | 37 | DHCP Snooping, DAI, IPSG — đúng thứ tự | *(tự tạo từ template)* |
-| LAB 63 | 38 | 3 tấn công L2 và chứng minh phòng thủ chặn được | *(tự tạo từ template)* |
+| LAB 60 | 35 | AAA với TACACS+ và RADIUS, fallback local | [`../labs/lab60-aaa-tacacs-radius.md`](../labs/lab60-aaa-tacacs-radius.md) |
+| LAB 61 | 36 | ACL standard và extended, debug bằng counter | [`../labs/lab61-acl.md`](../labs/lab61-acl.md) |
+| LAB 62 | 37 | DHCP Snooping, DAI, IPSG — đúng thứ tự | [`../labs/lab62-dhcp-snooping-dai-ipsg.md`](../labs/lab62-dhcp-snooping-dai-ipsg.md) |
+| LAB 63 | 38 | 3 tấn công L2 và chứng minh phòng thủ chặn được | [`../labs/lab63-tan-cong-lop-2.md`](../labs/lab63-tan-cong-lop-2.md) |
 
 ---
 

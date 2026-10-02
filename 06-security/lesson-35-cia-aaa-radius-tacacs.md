@@ -374,7 +374,7 @@ Current privilege level is 15
 
 ## 11. LAB
 
-🧪 **LAB 60 — AAA với TACACS+ và RADIUS** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md))*
+🧪 **LAB 60 — AAA với TACACS+ và RADIUS** → [`../labs/lab60-aaa-tacacs-radius.md`](../labs/lab60-aaa-tacacs-radius.md)
 
 Yêu cầu tối thiểu:
 

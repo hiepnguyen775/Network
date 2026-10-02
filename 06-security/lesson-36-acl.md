@@ -464,7 +464,7 @@ R1# show logging | include ACCESSLOG
 
 ## 11. LAB
 
-🧪 **LAB 61 — ACL standard và extended** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md))*
+🧪 **LAB 61 — ACL standard và extended** → [`../labs/lab61-acl.md`](../labs/lab61-acl.md)
 
 Yêu cầu tối thiểu:
 
