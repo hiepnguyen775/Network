@@ -25,13 +25,31 @@
 
 | # | Lesson | File | 🧪 Lab | Trạng thái |
 |:---:|---|---|:---:|:---:|
-| 11 | Switch hoạt động thế nào · MAC table · collision vs broadcast domain | — | | ⬜ |
-| 12 | Cisco IOS CLI: config modes, interface, speed/duplex, lưu config | — | ✅ | ⬜ |
-| 13 | VLAN · access port · trunk 802.1Q · native VLAN ⭐ | [`lesson-13-vlan-va-trunk.md`](./lesson-13-vlan-va-trunk.md) | ✅ | ⬜ |
-| 14 | Inter-VLAN routing: Router-on-a-Stick và L3 Switch (SVI) ⭐ | — | ✅ | ⬜ |
-| 15 | STP: vì sao cần, root election, port roles/states ⭐ | — | ✅ | ⬜ |
-| 16 | RSTP · PortFast · BPDU Guard | — | ✅ | ⬜ |
-| 17 | EtherChannel (LACP/PAgP) · Port Security | — | ✅ | ⬜ |
+| 11 | Kiến trúc switch · L2 vs L3 · mô hình phân lớp | [`lesson-11-kien-truc-switch.md`](./lesson-11-kien-truc-switch.md) | | ⬜ |
+| 12 | Cisco IOS CLI: config mode, SSH, lưu config | [`lesson-12-cisco-ios-cli.md`](./lesson-12-cisco-ios-cli.md) | LAB 10 | ⬜ |
+| 13 | VLAN · access · trunk 802.1Q · native VLAN ⭐ | [`lesson-13-vlan-va-trunk.md`](./lesson-13-vlan-va-trunk.md) | LAB 11 | ⬜ |
+| 14 | Inter-VLAN routing: Router-on-a-Stick & SVI ⭐ | [`lesson-14-inter-vlan-routing.md`](./lesson-14-inter-vlan-routing.md) | LAB 12 | ⬜ |
+| 15 | STP: vì sao cần, bầu root, port role ⭐ | [`lesson-15-stp.md`](./lesson-15-stp.md) | LAB 13 | ⬜ |
+| 16 | RSTP · PortFast · BPDU Guard · Root Guard | [`lesson-16-rstp-portfast-bpduguard.md`](./lesson-16-rstp-portfast-bpduguard.md) | LAB 14 | ⬜ |
+| 17 | EtherChannel (LACP) · Port Security | [`lesson-17-etherchannel-port-security.md`](./lesson-17-etherchannel-port-security.md) | LAB 15 | ⬜ |
+
+📝 **Kết thúc phase:** [`review-phase01.md`](./review-phase01.md) — tổng kết + Mini Exam 20 câu
+
+> ✅ **Phase 1 đã viết đầy đủ.** Đọc theo thứ tự 11 → 17, làm lab khi lesson bảo làm,
+> rồi làm Mini Exam.
+
+---
+
+## 🧪 Lab của phase
+
+| Lab | Lesson | Nội dung | File |
+|---|:---:|---|---|
+| LAB 10 | 12 | Cisco IOS CLI căn bản, SSH, backup config | *(tự tạo từ template)* |
+| LAB 11 | 13 | VLAN & Trunk giữa 2 switch | [`lab11-vlan-va-trunk.md`](../labs/lab11-vlan-va-trunk.md) |
+| LAB 12 | 14 | Inter-VLAN routing: RoAS **và** SVI | [`lab12-inter-vlan-routing.md`](../labs/lab12-inter-vlan-routing.md) |
+| LAB 13 | 15 | STP: bầu root, port role, broadcast storm | [`lab13-stp.md`](../labs/lab13-stp.md) |
+| LAB 14 | 16 | RSTP, PortFast, BPDU Guard — đo thời gian hội tụ | *(tự tạo từ template)* |
+| LAB 15 | 17 | EtherChannel LACP + Port Security | *(tự tạo từ template)* |
 
 ---
 

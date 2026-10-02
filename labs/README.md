@@ -48,7 +48,11 @@ Tên file: `labNN-ten-khong-dau.md` — ví dụ `lab11-vlan-va-trunk.md`.
 | 05 | *DHCP server + relay 2 VLAN* | 0 | 08 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
 | 06 | *PAT + static NAT* | 0 | 09 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
 | 10 | *Cisco IOS CLI căn bản* | 1 | 12 | Packet Tracer | ⭐ | — | *(chưa tạo)* |
-| 11 | *VLAN & Trunk giữa 2 switch* | 1 | 13 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
+| 11 | [VLAN & Trunk giữa 2 switch](./lab11-vlan-va-trunk.md) | 1 | 13 | Packet Tracer | ⭐⭐ | ⬜ | — |
+| 12 | [Inter-VLAN Routing: RoAS và SVI](./lab12-inter-vlan-routing.md) | 1 | 14 | Packet Tracer | ⭐⭐ | ⬜ | — |
+| 13 | [STP: root, port role, storm](./lab13-stp.md) | 1 | 15 | Packet Tracer | ⭐⭐⭐ | ⬜ | — |
+| 14 | *RSTP, PortFast, BPDU Guard* | 1 | 16 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
+| 15 | *EtherChannel + Port Security* | 1 | 17 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
 
 ---
 
