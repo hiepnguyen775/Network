@@ -393,7 +393,7 @@ R1# show ip local pool VPN-POOL
 
 ## 11. LAB
 
-🧪 **LAB 72 — Site-to-site mở rộng + khảo sát remote access**
+🧪 **LAB 72 — Site-to-site mở rộng + khảo sát remote access** → [`../labs/lab72-hub-spoke-remote.md`](../labs/lab72-hub-spoke-remote.md)
 
 **Phần A — Hub-and-spoke 3 site** *(GNS3/EVE-NG)*
 

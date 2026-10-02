@@ -414,7 +414,7 @@ RADIUS: id 1, priority 1, host 10.0.50.60, auth-port 1812, acct-port 1813
 
 ## 11. LAB
 
-🧪 **LAB 50 — Bảo mật Wi-Fi** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md))*
+🧪 **LAB 50 — Bảo mật Wi-Fi** → [`../labs/lab50-bao-mat-wifi.md`](../labs/lab50-bao-mat-wifi.md)
 
 Yêu cầu tối thiểu:
 

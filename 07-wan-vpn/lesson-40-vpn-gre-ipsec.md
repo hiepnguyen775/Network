@@ -494,7 +494,7 @@ Peer: 198.51.100.1 port 500
 
 ## 11. LAB
 
-🧪 **LAB 71 — GRE over IPsec site-to-site**
+🧪 **LAB 71 — GRE over IPsec site-to-site** → [`../labs/lab71-gre-ipsec.md`](../labs/lab71-gre-ipsec.md)
 > ⚠️ **Phải làm trên GNS3/EVE-NG** — Packet Tracer không mô phỏng đủ IPsec.
 
 Yêu cầu tối thiểu:

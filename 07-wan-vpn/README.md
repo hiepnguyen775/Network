@@ -39,9 +39,9 @@
 
 | Lab | Lesson | Nội dung | File |
 |---|:---:|---|---|
-| LAB 70 | 39 | Dual-WAN, chứng minh giới hạn floating static, IP SLA + track | *(tự tạo từ template)* |
-| LAB 71 | 40 | **GRE over IPsec** site-to-site *(GNS3/EVE-NG)* | *(tự tạo từ template)* |
-| LAB 72 | 41 | Hub-and-spoke 3 site + khảo sát remote access | *(tự tạo từ template)* |
+| LAB 70 | 39 | Dual-WAN, chứng minh giới hạn floating static, IP SLA + track | [`../labs/lab70-dual-wan-ipsla.md`](../labs/lab70-dual-wan-ipsla.md) |
+| LAB 71 | 40 | **GRE over IPsec** site-to-site *(GNS3/EVE-NG)* | [`../labs/lab71-gre-ipsec.md`](../labs/lab71-gre-ipsec.md) |
+| LAB 72 | 41 | Hub-and-spoke 3 site + khảo sát remote access | [`../labs/lab72-hub-spoke-remote.md`](../labs/lab72-hub-spoke-remote.md) |
 
 ---
 

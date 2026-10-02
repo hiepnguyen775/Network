@@ -40,7 +40,7 @@
 | Lab | Lesson | Nội dung | File |
 |---|:---:|---|---|
 | — | 33 | 4 bài khảo sát RF trên máy thật *(trong lesson)* | — |
-| LAB 50 | 34 | WPA2-PSK + WPA2-Enterprise + ACL cô lập guest | *(tự tạo từ template)* |
+| LAB 50 | 34 | WPA2-PSK + WPA2-Enterprise + ACL cô lập guest | [`../labs/lab50-bao-mat-wifi.md`](../labs/lab50-bao-mat-wifi.md) |
 
 ---
 

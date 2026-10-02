@@ -433,7 +433,7 @@ S*    0.0.0.0/0 [200/0] via 198.51.100.1      ← đã chuyển sang backup
 
 ## 11. LAB
 
-🧪 **LAB 70 — Dual-WAN với IP SLA + track** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md))*
+🧪 **LAB 70 — Dual-WAN với IP SLA + track** → [`../labs/lab70-dual-wan-ipsla.md`](../labs/lab70-dual-wan-ipsla.md)
 
 Yêu cầu tối thiểu:
 
