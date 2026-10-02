@@ -25,9 +25,22 @@
 
 | # | Lesson | File | 🧪 Lab | Trạng thái |
 |:---:|---|---|:---:|:---:|
-| 32 | WLAN cơ bản · AP · WLC · SSID/BSSID · autonomous vs lightweight | — | | ⬜ |
-| 33 | RF cơ bản: 2.4/5/6 GHz · channel · channel width · roaming | — | | ⬜ |
-| 34 | Bảo mật Wi-Fi: WPA2 · WPA3 · PSK vs Enterprise (802.1X) | — | ✅ | ⬜ |
+| 32 | WLAN · AP · WLC · CAPWAP · local vs FlexConnect | [`lesson-32-wlan-ap-wlc.md`](./lesson-32-wlan-ap-wlc.md) | | ⬜ |
+| 33 | **RF · băng tần · kênh · roaming** ⭐ | [`lesson-33-rf-channel-roaming.md`](./lesson-33-rf-channel-roaming.md) | | ⬜ |
+| 34 | Bảo mật Wi-Fi: WPA2/WPA3 · PSK vs **802.1X** | [`lesson-34-bao-mat-wifi.md`](./lesson-34-bao-mat-wifi.md) | LAB 50 | ⬜ |
+
+📝 **Kết thúc phase:** [`review-phase05.md`](./review-phase05.md) — tổng kết + Mini Exam 20 câu
+
+> 🔧 Lesson 33 có **4 bài khảo sát trên máy thật** — làm được ngay không cần lab ảo.
+
+---
+
+## 🧪 Lab của phase
+
+| Lab | Lesson | Nội dung | File |
+|---|:---:|---|---|
+| — | 33 | 4 bài khảo sát RF trên máy thật *(trong lesson)* | — |
+| LAB 50 | 34 | WPA2-PSK + WPA2-Enterprise + ACL cô lập guest | *(tự tạo từ template)* |
 
 ---
 

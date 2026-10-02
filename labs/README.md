@@ -62,6 +62,10 @@ Tên file: `labNN-ten-khong-dau.md` — ví dụ `lab11-vlan-va-trunk.md`.
 | 31 | *DNS nội bộ, nslookup, file hosts* | 3 | 26 | PT + máy thật | ⭐⭐ | — | *(chưa tạo)* |
 | 32 | *PAT, port forwarding, dual-WAN NAT* | 3 | 27 | Packet Tracer | ⭐⭐⭐ | — | *(chưa tạo)* |
 | 33 | *NTP + Syslog + SNMP* | 3 | 28 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
+| 40 | *IPv6 addressing plan, EUI-64* | 4 | 29 | Giấy + PT | ⭐⭐ | — | *(chưa tạo)* |
+| 41 | *SLAAC, NDP, DHCPv6 3 chế độ* | 4 | 30 | PT + Wireshark | ⭐⭐⭐ | — | *(chưa tạo)* |
+| 42 | *IPv6 routing, OSPFv3, dual-stack* | 4 | 31 | Packet Tracer | ⭐⭐⭐ | — | *(chưa tạo)* |
+| 50 | *Bảo mật Wi-Fi: PSK, 802.1X, ACL guest* | 5 | 34 | Packet Tracer | ⭐⭐⭐ | — | *(chưa tạo)* |
 ---
 
 ## 🏁 FINAL CCNA PROJECT

@@ -25,9 +25,24 @@
 
 | # | Lesson | File | 🧪 Lab | Trạng thái |
 |:---:|---|---|:---:|:---:|
-| 29 | Format · rút gọn · Global Unicast · Link-local · ULA · Multicast ⭐ | — | | ⬜ |
-| 30 | SLAAC · DHCPv6 (stateless/stateful) · Neighbor Discovery · ICMPv6 ⭐ | — | ✅ | ⬜ |
-| 31 | IPv6 routing · static v6 · OSPFv3 · so sánh IPv4 ↔ IPv6 | — | ✅ | ⬜ |
+| 29 | **Địa chỉ & quy hoạch IPv6**: subnetting, EUI-64, solicited-node ⭐ | [`lesson-29-ipv6-dia-chi.md`](./lesson-29-ipv6-dia-chi.md) | LAB 40 | ⬜ |
+| 30 | **SLAAC · NDP · ICMPv6 · DHCPv6** ⭐ | [`lesson-30-slaac-ndp-dhcpv6.md`](./lesson-30-slaac-ndp-dhcpv6.md) | LAB 41 | ⬜ |
+| 31 | IPv6 routing · **OSPFv3** · dual-stack | [`lesson-31-ipv6-routing-ospfv3.md`](./lesson-31-ipv6-routing-ospfv3.md) | LAB 42 | ⬜ |
+
+📝 **Kết thúc phase:** [`review-phase04.md`](./review-phase04.md) — tổng kết + Mini Exam 20 câu
+
+> 📦 Phase 0 [Lesson 10](../00-foundation/lesson-10-ipv6-gioi-thieu.md) đã **giới thiệu** IPv6;
+> phase này đi **sâu và làm chủ**.
+
+---
+
+## 🧪 Lab của phase
+
+| Lab | Lesson | Nội dung | File |
+|---|:---:|---|---|
+| LAB 40 | 29 | Addressing plan từ một `/48`, EUI-64 tính tay | *(tự tạo từ template)* |
+| LAB 41 | 30 | SLAAC, bắt RS/RA/NS/NA, 3 chế độ DHCPv6 | *(tự tạo từ template)* |
+| LAB 42 | 31 | Static IPv6, OSPFv3, dual-stack | *(tự tạo từ template)* |
 
 ---
 
