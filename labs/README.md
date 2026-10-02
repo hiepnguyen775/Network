@@ -45,8 +45,8 @@ Tên file: `labNN-ten-khong-dau.md` — ví dụ `lab11-vlan-va-trunk.md`.
 | 02 | [Bắt ARP + ICMP bằng Wireshark](./lab02-arp-icmp-wireshark.md) | 0 | 05 | Wireshark | ⭐ | ⬜ | — |
 | 03 | [TCP 3-way handshake vs UDP](./lab03-tcp-udp-wireshark.md) | 0 | 06 | Wireshark | ⭐ | ⬜ | — |
 | 04 | [Thiết kế IP plan doanh nghiệp](./lab04-ip-plan-doanh-nghiep.md) | 0 | 07 | Giấy + PT | ⭐⭐ | ⬜ | — |
-| 05 | *DHCP server + relay 2 VLAN* | 0 | 08 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
-| 06 | *PAT + static NAT* | 0 | 09 | Packet Tracer | ⭐⭐ | — | *(chưa tạo)* |
+| 05 | [DHCP server + relay 2 VLAN](lab05-dhcp-server-relay.md) | 0 | 08 | Packet Tracer | ⭐⭐ | — | ⬜ |
+| 06 | [PAT + static NAT](lab06-pat-static-nat.md) | 0 | 09 | Packet Tracer | ⭐⭐ | — | ⬜ |
 | 10 | *Cisco IOS CLI căn bản* | 1 | 12 | Packet Tracer | ⭐ | — | *(chưa tạo)* |
 | 11 | [VLAN & Trunk giữa 2 switch](./lab11-vlan-va-trunk.md) | 1 | 13 | Packet Tracer | ⭐⭐ | ⬜ | — |
 | 12 | [Inter-VLAN Routing: RoAS và SVI](./lab12-inter-vlan-routing.md) | 1 | 14 | Packet Tracer | ⭐⭐ | ⬜ | — |

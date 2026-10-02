@@ -358,7 +358,7 @@ nslookup google.com 8.8.8.8     # hỏi thẳng một DNS server cụ thể
 
 ## 11. LAB
 
-🧪 **Bài lab của lesson này** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md), đánh số **LAB 05**)*
+🧪 **LAB 05 — DHCP server + relay cho 2 VLAN** → [`../labs/lab05-dhcp-server-relay.md`](../labs/lab05-dhcp-server-relay.md)
 
 Yêu cầu tối thiểu:
 

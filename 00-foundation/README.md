@@ -67,8 +67,8 @@ Xong phase này, bạn phải:
 | LAB 02 | 05 | Bắt ARP + ICMP bằng Wireshark, đọc từng field | [`lab02-arp-icmp-wireshark.md`](../labs/lab02-arp-icmp-wireshark.md) |
 | LAB 03 | 06 | TCP 3-way handshake vs UDP · drop vs reject | [`lab03-tcp-udp-wireshark.md`](../labs/lab03-tcp-udp-wireshark.md) |
 | LAB 04 | 07 | Thiết kế IP plan cho doanh nghiệp từ một `/23` | [`lab04-ip-plan-doanh-nghiep.md`](../labs/lab04-ip-plan-doanh-nghiep.md) |
-| LAB 05 | 08 | DHCP server + relay cho 2 VLAN | *(tự tạo từ template)* |
-| LAB 06 | 09 | PAT ra Internet + static NAT cho server | *(tự tạo từ template)* |
+| LAB 05 | 08 | DHCP server + relay cho 2 VLAN | [`../labs/lab05-dhcp-server-relay.md`](../labs/lab05-dhcp-server-relay.md) |
+| LAB 06 | 09 | PAT ra Internet + static NAT cho server | [`../labs/lab06-pat-static-nat.md`](../labs/lab06-pat-static-nat.md) |
 
 ---
 

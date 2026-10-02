@@ -328,7 +328,7 @@ R1# undebug all
 
 ## 11. LAB
 
-🧪 **Bài lab của lesson này** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md), đánh số **LAB 06**)*
+🧪 **LAB 06 — PAT ra Internet + static NAT cho server** → [`../labs/lab06-pat-static-nat.md`](../labs/lab06-pat-static-nat.md)
 
 Yêu cầu tối thiểu:
 
