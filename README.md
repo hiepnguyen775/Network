@@ -6,7 +6,7 @@
 ![Phase](https://img.shields.io/badge/Phase-0%20%E2%86%92%209-8957e5)
 ![Lab](https://img.shields.io/badge/Lab-Packet%20Tracer%20%7C%20GNS3%20%7C%20EVE--NG-2da44e)
 ![Ngôn ngữ](https://img.shields.io/badge/Ng%C3%B4n%20ng%E1%BB%AF-Ti%E1%BA%BFng%20Vi%E1%BB%87t-d29922)
-![Trạng thái](https://img.shields.io/badge/Tr%E1%BA%A1ng%20th%C3%A1i-%C4%91ang%20h%E1%BB%8Dc-lightgrey)
+![Nội dung](https://img.shields.io/badge/N%E1%BB%99i%20dung-41%2F41%20lesson-2da44e)
 
 ---
 
@@ -149,6 +149,10 @@ network-mentor/
 | **9** | [`09-automation/`](./09-automation/) | REST/YAML, Python, Netmiko, Ansible, NETCONF → *repo riêng* | — |
 
 Chi tiết từng mục + checkbox tiến độ: **[`ROADMAP.md`](./ROADMAP.md)**
+
+> ✅ **Phase 0 → 7 đã viết đầy đủ: 41/41 lesson + 8 mini exam.**
+> Mỗi phase kết thúc bằng `review-phaseNN.md` — tổng kết, bảng lỗi hay gặp,
+> câu hỏi phỏng vấn, và **Mini Exam 20 câu** có ngưỡng 80% để qua phase.
 
 ---
 

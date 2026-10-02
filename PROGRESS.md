@@ -63,16 +63,17 @@
 
 ## 📈 Tiến độ theo phase
 
-| Phase | Chủ đề | Tiến độ | Ghi chú |
-|:---:|---|---|---|
-| 0 | Foundation | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0/10 | |
-| 1 | Switching | ⬜⬜⬜⬜⬜⬜⬜ 0/7 | |
-| 2 | Routing | ⬜⬜⬜⬜⬜⬜⬜ 0/7 | |
-| 3 | Services | ⬜⬜⬜⬜ 0/4 | |
-| 4 | IPv6 | ⬜⬜⬜ 0/3 | |
-| 5 | Wireless | ⬜⬜⬜ 0/3 | |
-| 6 | Security | ⬜⬜⬜⬜ 0/4 | |
-| 7 | WAN / VPN | ⬜⬜⬜ 0/3 | |
+| Phase | Chủ đề | Tiến độ | Mini Exam | Ghi chú |
+|:---:|---|---|:---:|---|
+| 0 | Foundation | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0/10 | ⬜ | |
+| 1 | Switching | ⬜⬜⬜⬜⬜⬜⬜ 0/7 | ⬜ | |
+| 2 | Routing | ⬜⬜⬜⬜⬜⬜⬜ 0/7 | ⬜ | |
+| 3 | Services | ⬜⬜⬜⬜ 0/4 | ⬜ | |
+| 4 | IPv6 | ⬜⬜⬜ 0/3 | ⬜ | |
+| 5 | Wireless | ⬜⬜⬜ 0/3 | ⬜ | |
+| 6 | Security | ⬜⬜⬜⬜ 0/4 | ⬜ | |
+| 7 | WAN / VPN | ⬜⬜⬜ 0/3 | ⬜ | |
+| 🏁 | **Final CCNA Project** | ⬜ | — | |
 
 > Đổi `⬜` thành `🟩` khi tick xong mục tương ứng trong [`ROADMAP.md`](./ROADMAP.md).
 

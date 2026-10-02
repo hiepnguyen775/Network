@@ -25,9 +25,23 @@
 
 | # | Lesson | File | 🧪 Lab | Trạng thái |
 |:---:|---|---|:---:|:---:|
-| 39 | WAN concepts: leased line · MPLS · Internet · dual-WAN & failover | — | | ⬜ |
-| 40 | VPN fundamentals · GRE tunnel · IPsec (IKE, ESP, transform set) ⭐ | — | ✅ | ⬜ |
-| 41 | Site-to-Site vs Remote Access · SD-WAN concepts | — | ✅ | ⬜ |
+| 39 | WAN concepts · SLA · **dual-WAN + IP SLA/track** | [`lesson-39-wan-concepts.md`](./lesson-39-wan-concepts.md) | LAB 70 | ⬜ |
+| 40 | VPN · **GRE over IPsec** · IKE 2 phase ⭐ | [`lesson-40-vpn-gre-ipsec.md`](./lesson-40-vpn-gre-ipsec.md) | LAB 71 | ⬜ |
+| 41 | Site-to-Site vs Remote Access · **SD-WAN** | [`lesson-41-site-to-site-sdwan.md`](./lesson-41-site-to-site-sdwan.md) | LAB 72 | ⬜ |
+
+📝 **Kết thúc phase:** [`review-phase07.md`](./review-phase07.md) — tổng kết + Mini Exam 20 câu
+
+> ⚠️ **LAB 71 phải làm trên GNS3/EVE-NG** — Packet Tracer không mô phỏng đủ IPsec.
+
+---
+
+## 🧪 Lab của phase
+
+| Lab | Lesson | Nội dung | File |
+|---|:---:|---|---|
+| LAB 70 | 39 | Dual-WAN, chứng minh giới hạn floating static, IP SLA + track | *(tự tạo từ template)* |
+| LAB 71 | 40 | **GRE over IPsec** site-to-site *(GNS3/EVE-NG)* | *(tự tạo từ template)* |
+| LAB 72 | 41 | Hub-and-spoke 3 site + khảo sát remote access | *(tự tạo từ template)* |
 
 ---
 

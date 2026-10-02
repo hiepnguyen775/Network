@@ -25,10 +25,26 @@
 
 | # | Lesson | File | 🧪 Lab | Trạng thái |
 |:---:|---|---|:---:|:---:|
-| 35 | CIA Triad · AAA · RADIUS vs TACACS+ · local auth trên IOS | — | ✅ | ⬜ |
-| 36 | Standard ACL · Extended ACL · wildcard mask ⭐ | — | ✅ | ⬜ |
-| 37 | DHCP Snooping · Dynamic ARP Inspection · IP Source Guard | — | ✅ | ⬜ |
-| 38 | Port Security nâng cao · L2 attacks (VLAN hopping, MAC flooding, rogue DHCP) | — | ✅ | ⬜ |
+| 35 | CIA Triad · AAA · **RADIUS vs TACACS+** | [`lesson-35-cia-aaa-radius-tacacs.md`](./lesson-35-cia-aaa-radius-tacacs.md) | LAB 60 | ⬜ |
+| 36 | **Access Control List (ACL)** ⭐ | [`lesson-36-acl.md`](./lesson-36-acl.md) | LAB 61 | ⬜ |
+| 37 | DHCP Snooping · **DAI** · IP Source Guard | [`lesson-37-dhcp-snooping-dai.md`](./lesson-37-dhcp-snooping-dai.md) | LAB 62 | ⬜ |
+| 38 | **Tấn công L2 & phòng thủ tổng hợp** | [`lesson-38-l2-attacks.md`](./lesson-38-l2-attacks.md) | LAB 63 | ⬜ |
+
+📝 **Kết thúc phase:** [`review-phase06.md`](./review-phase06.md) — tổng kết + Mini Exam 20 câu
+
+> ⭐ Lesson 38 có **khối cấu hình chuẩn** cho access port — sản phẩm quan trọng nhất
+> của cả phase, áp dụng được ngay cho mọi switch.
+
+---
+
+## 🧪 Lab của phase
+
+| Lab | Lesson | Nội dung | File |
+|---|:---:|---|---|
+| LAB 60 | 35 | AAA với TACACS+ và RADIUS, fallback local | *(tự tạo từ template)* |
+| LAB 61 | 36 | ACL standard và extended, debug bằng counter | *(tự tạo từ template)* |
+| LAB 62 | 37 | DHCP Snooping, DAI, IPSG — đúng thứ tự | *(tự tạo từ template)* |
+| LAB 63 | 38 | 3 tấn công L2 và chứng minh phòng thủ chặn được | *(tự tạo từ template)* |
 
 ---
 
