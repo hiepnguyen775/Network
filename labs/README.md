@@ -62,9 +62,9 @@ Tên file: `labNN-ten-khong-dau.md` — ví dụ `lab11-vlan-va-trunk.md`.
 | 31 | [DNS nội bộ, nslookup, file hosts](lab31-dns-noi-bo.md) | 3 | 26 | PT + máy thật | ⭐⭐ | — | ⬜ |
 | 32 | [PAT, port forwarding, dual-WAN NAT](lab32-nat-nang-cao.md) | 3 | 27 | Packet Tracer | ⭐⭐⭐ | — | ⬜ |
 | 33 | [NTP + Syslog + SNMP](lab33-ntp-syslog-snmp.md) | 3 | 28 | Packet Tracer | ⭐⭐ | — | ⬜ |
-| 40 | *IPv6 addressing plan, EUI-64* | 4 | 29 | Giấy + PT | ⭐⭐ | — | *(chưa tạo)* |
-| 41 | *SLAAC, NDP, DHCPv6 3 chế độ* | 4 | 30 | PT + Wireshark | ⭐⭐⭐ | — | *(chưa tạo)* |
-| 42 | *IPv6 routing, OSPFv3, dual-stack* | 4 | 31 | Packet Tracer | ⭐⭐⭐ | — | *(chưa tạo)* |
+| 40 | [IPv6 addressing plan, EUI-64](lab40-ipv6-addressing.md) | 4 | 29 | Giấy + PT | ⭐⭐ | — | ⬜ |
+| 41 | [SLAAC, NDP, DHCPv6 3 chế độ](lab41-slaac-ndp-dhcpv6.md) | 4 | 30 | PT + Wireshark | ⭐⭐⭐ | — | ⬜ |
+| 42 | [IPv6 routing, OSPFv3, dual-stack](lab42-ipv6-ospfv3.md) | 4 | 31 | Packet Tracer | ⭐⭐⭐ | — | ⬜ |
 | 50 | *Bảo mật Wi-Fi: PSK, 802.1X, ACL guest* | 5 | 34 | Packet Tracer | ⭐⭐⭐ | — | *(chưa tạo)* |
 | 60 | [AAA: TACACS+, RADIUS, fallback local](lab60-aaa-tacacs-radius.md) | 6 | 35 | Packet Tracer | ⭐⭐ | — | ⬜ |
 | 61 | [ACL standard & extended, debug counter](lab61-acl.md) | 6 | 36 | Packet Tracer | ⭐⭐⭐ | — | ⬜ |

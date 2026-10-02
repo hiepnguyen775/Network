@@ -40,9 +40,9 @@
 
 | Lab | Lesson | Nội dung | File |
 |---|:---:|---|---|
-| LAB 40 | 29 | Addressing plan từ một `/48`, EUI-64 tính tay | *(tự tạo từ template)* |
-| LAB 41 | 30 | SLAAC, bắt RS/RA/NS/NA, 3 chế độ DHCPv6 | *(tự tạo từ template)* |
-| LAB 42 | 31 | Static IPv6, OSPFv3, dual-stack | *(tự tạo từ template)* |
+| LAB 40 | 29 | Addressing plan từ một `/48`, EUI-64 tính tay | [`../labs/lab40-ipv6-addressing.md`](../labs/lab40-ipv6-addressing.md) |
+| LAB 41 | 30 | SLAAC, bắt RS/RA/NS/NA, 3 chế độ DHCPv6 | [`../labs/lab41-slaac-ndp-dhcpv6.md`](../labs/lab41-slaac-ndp-dhcpv6.md) |
+| LAB 42 | 31 | Static IPv6, OSPFv3, dual-stack | [`../labs/lab42-ipv6-ospfv3.md`](../labs/lab42-ipv6-ospfv3.md) |
 
 ---
 

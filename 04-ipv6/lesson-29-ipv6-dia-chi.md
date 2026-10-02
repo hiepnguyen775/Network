@@ -400,7 +400,7 @@ FE80::21A:2BFF:FE3C:4D5E                    0 001a.2b3c.4d5e  REACH Gi0/0
 
 ## 11. LAB
 
-🧪 **LAB 40 — IPv6 addressing & quy hoạch** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md))*
+🧪 **LAB 40 — IPv6 addressing & quy hoạch** → [`../labs/lab40-ipv6-addressing.md`](../labs/lab40-ipv6-addressing.md)
 
 Yêu cầu tối thiểu:
 

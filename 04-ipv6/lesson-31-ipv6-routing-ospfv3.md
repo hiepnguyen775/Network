@@ -414,7 +414,7 @@ GigabitEthernet0/1 is up, line protocol is up
 
 ## 11. LAB
 
-🧪 **LAB 42 — IPv6 routing & OSPFv3** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md))*
+🧪 **LAB 42 — IPv6 routing & OSPFv3** → [`../labs/lab42-ipv6-ospfv3.md`](../labs/lab42-ipv6-ospfv3.md)
 
 Yêu cầu tối thiểu:
 

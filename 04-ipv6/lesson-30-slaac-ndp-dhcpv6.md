@@ -408,7 +408,7 @@ C:\> ipconfig /all
 
 ## 11. LAB
 
-🧪 **LAB 41 — SLAAC, NDP, DHCPv6** *(tạo từ [`templates/LAB_TEMPLATE.md`](../templates/LAB_TEMPLATE.md))*
+🧪 **LAB 41 — SLAAC, NDP, DHCPv6** → [`../labs/lab41-slaac-ndp-dhcpv6.md`](../labs/lab41-slaac-ndp-dhcpv6.md)
 
 Yêu cầu tối thiểu:
 
